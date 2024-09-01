@@ -552,7 +552,7 @@ let questions = [
 {
   numb: 51,
   question: "El régimen general de situaciones del personal estatutario fijo, según el artículo 62 de la Ley 55/2003, de 16 de diciembre, comprende las siguientes:",
-  answer: "D) En el ámbito de cada una de las comunidades autónomas.",
+  answer: "D) Todas son situaciones del personal estatutario.",
   options: [
     "A) Servicios especiales.",
     "B) Servicios bajo otro régimen jurídico.",
@@ -649,17 +649,6 @@ let questions = [
   ]
 },
 {
-  numb: 59,
-  question: "Según se regula en la Ley 55/2003, de 16 de diciembre, la renuncia a la condición de personal estatutario tiene el carácter de acto voluntario y deberá ser solicitada por el interesado con una antelación mínima de:",
-  answer: "A) 15 días a la fecha en que se desee hacer efectiva.",
-  options: [
-    "A) 15 días a la fecha en que se desee hacer efectiva.",
-    "B) 1 mes a la fecha en que se desee hacer efectiva.",
-    "C) 2 meses a la fecha en que se desee hacer efectiva.",
-    "D) 1 semana a la fecha en que se desee hacer efectiva."
-  ]
-},
-{
   numb: 60,
   question: "Según se regula en el artículo 24 de la Ley 55/2003, de 16 de diciembre, la sanción de separación del servicio:",
   answer: "C) La sanción disciplinaria de separación del servicio, cuando adquiera carácter firme, supone la pérdida de la condición de personal estatutario.",
@@ -695,7 +684,7 @@ let questions = [
 {
   numb: 63,
   question: "Según se regula en la Ley 55/2003, de 16 de diciembre, se producirá la recuperación de la condición de personal estatutario fijo:",
-  answer: "D) Ninguna es correcta.",
+  answer: "D) Procederá también la recuperación de la condición de personal estatutario cuando se hubiera perdido como consecuencia de incapacidad, si ésta es revisada conforme a las normas reguladoras del Régimen General de la Seguridad Social.",
   options: [
     "A) En ningún caso se puede recuperar la condición de personal estatutario fijo, salvo por superación de las pruebas de selección de un nuevo proceso selectivo.",
     "B) Cuando se revisa la incapacidad temporal.",
@@ -1108,6 +1097,1106 @@ let questions = [
     "B) La transmisibilidad.",
     "C) La convalidación.",
     "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 101,
+  question: "Según la Ley 39/2015, de 1 de octubre, los siguientes actos deben ser motivados:",
+  answer: "C) Los que limiten derechos subjetivos o intereses legítimos.",
+  options: [
+    "A) Los que limiten derechos objetivos o intereses legítimos.",
+    "B) Los que limiten derechos objetivos o intereses ilegítimos.",
+    "C) Los que limiten derechos subjetivos o intereses legítimos.",
+    "D) Los actos que limiten derechos subjetivos o intereses ilegítimos."
+  ]
+},
+{
+  numb: 102,
+  question: "Según la Ley 39/2015, de 1 de octubre, no tienen por qué motivarse los actos que:",
+  answer: "D) Todas las respuestas son incorrectas.",
+  options: [
+    "A) Resuelvan recursos administrativos.",
+    "B) Los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.",
+    "C) Los actos que rechacen pruebas propuestas por los interesados.",
+    "D) Todas las respuestas son incorrectas."
+  ]
+},
+{
+  numb: 103,
+  question: "Según la Ley 39/2015, de 1 de octubre, en su artículo 37 sobre la inderogabilidad singular:",
+  answer: "A) Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+  options: [
+    "A) Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+    "B) Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter particular, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+    "C) Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter particular, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición particular.",
+    "D) Las resoluciones administrativas de carácter general no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general."
+  ]
+},
+{
+  numb: 104,
+  question: "Según el artículo 25 de la Ley 39/2015, de 1 de octubre, en los procedimientos iniciados de oficio, el vencimiento del plazo máximo para resolver y notificar, produce los siguientes efectos:",
+  answer: "C) En los procedimientos en que la Administración ejercite potestades sancionadoras, se producirá la caducidad.",
+  options: [
+    "A) Los interesados podrán entender estimadas sus pretensiones por silencio administrativo en el caso de procedimientos de los que se deriven la constitución de derechos.",
+    "B) En los procedimientos en que la administración ejercite potestades sancionadoras el interesado debe solicitar la caducidad de las actuaciones.",
+    "C) En los procedimientos en que la Administración ejercite potestades sancionadoras, se producirá la caducidad.",
+    "D) Ninguna es correcta"
+  ]
+},
+{
+  numb: 105,
+  question: "Según el artículo 24 de la Ley 39/2015, de 1 de octubre, se entiende que el silencio de la Administración tiene carácter negativo, en procedimientos iniciados a solicitud del interesado, en el siguiente caso:",
+  answer: "C) En los procedimientos relativos al ejercicio del derecho de petición del artículo 29 de la Constitución.",
+  options: [
+    "A) En todos los procedimientos, salvo en los de responsabilidad patrimonial de las Administraciones Públicas.",
+    "B) En todos los procedimientos, salvo que sean actividades que puedan dañar el medio ambiente.",
+    "C) En los procedimientos relativos al ejercicio del derecho de petición del artículo 29 de la Constitución.",
+    "D) En ninguno de los casos propuestos."
+  ]
+},
+{
+  numb: 106,
+  question: "Según la Ley 39/2015, de 1 de octubre, en el supuesto de que se produzca silencio administrativo positivo y, luego, la Administración resuelva expresamente, la resolución:",
+  answer: "C) Ha de ser confirmatoria de lo conseguido por el silencio administrativo.",
+  options: [
+    "A) Puede denegar lo conseguido en virtud del silencio administrativo.",
+    "B) Indistintamente, puede rectificar lo conseguido o denegarlo.",
+    "C) Ha de ser confirmatoria de lo conseguido por el silencio administrativo.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 107,
+  question: "Según la Ley 39/2015, de 1 de octubre, los supuestos de nulidad de pleno derecho de actos administrativos:",
+  answer: "C) Pueden establecerse expresamente en una disposición con rango de Ley.",
+  options: [
+    "A) Son la regla general en nuestro Derecho.",
+    "B) Son los recogidos en el artículo 46 de la Ley del Procedimiento Administrativo Común de las Administraciones Públicas, exclusivamente.",
+    "C) Pueden establecerse expresamente en una disposición con rango de Ley.",
+    "D) Son sólo los del artículo 48 de la Ley del Procedimiento Administrativo Común de las Administraciones Públicas y de otras Leyes formales."
+  ]
+},
+{
+  numb: 108,
+  question: "El defecto de forma de un acto, según reconoce expresamente la Ley 39/2015, de 1 de octubre:",
+  answer: "D) Determinará la anulabilidad si produce indefensión de los interesados.",
+  options: [
+    "A) Determinará la nulidad absoluta cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin.",
+    "B) Lo vicia con nulidad absoluta.",
+    "C) Lo vicia con anulabilidad en todo caso.",
+    "D) Determinará la anulabilidad si produce indefensión de los interesados."
+  ]
+},
+{
+  numb: 109,
+  question: "Según la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde:",
+  answer: "C) La fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+  options: [
+    "A) La fecha en que se notifiquen en todo caso.",
+    "B) La fecha en que se publiquen.",
+    "C) La fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 110,
+  question: "Según la Ley 39/2015, de 1 de octubre, la Administración podrá convalidar un acto:",
+  answer: "A) Si el vicio consiste en incompetencia jerárquica no determinante de nulidad.",
+  options: [
+    "A) Si el vicio consiste en incompetencia jerárquica no determinante de nulidad.",
+    "B) Si el vicio consiste en incompetencia funcional no determinante de nulidad.",
+    "C) Si el vicio consiste en incompetencia territorial no determinante de nulidad.",
+    "D) Ninguna respuesta es correcta."
+  ]
+},
+{
+  numb: 111,
+  question: "Según la Ley 39/2015, de 1 de octubre, la Administración no podrá convalidar un acto si el vicio consiste en:",
+  answer: "C) Incompetencia funcional.",
+  options: [
+    "A) Incompetencia jerárquica.",
+    "B) La falta de una autorización.",
+    "C) Incompetencia funcional.",
+    "D) La omisión de un informe facultativo."
+  ]
+},
+{
+  numb: 112,
+  question: "El plazo para interponer un recurso de alzada contra un acto expreso será de:",
+  answer: "A) Un mes.",
+  options: [
+    "A) Un mes.",
+    "B) Tres meses.",
+    "C) Diez días.",
+    "D) Seis meses."
+  ]
+},
+{
+  numb: 113,
+  question: "¿En qué supuesto se podrá interponer el recurso extraordinario de revisión dentro del plazo de 4 años siguientes a la fecha de la notificación de la resolución a impugnar?:",
+  answer: "C) Que al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente.",
+  options: [
+    "A) Que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme, anterior o posterior a aquella resolución.",
+    "B) Que la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible y se haya declarado así en virtud de sentencia judicial firme.",
+    "C) Que al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente.",
+    "D) Que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida."
+  ]
+},
+{
+  numb: 114,
+  question: "El recurso de alzada:",
+  answer: "D) Podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.",
+  options: [
+    "A) Podrá interponerse, en cualquier caso, en el plazo de 3 meses.",
+    "B) Podrá interponerse ante cualquier acto que ponga fin a la vía administrativa.",
+    "C) Podrá interponerse contra las disposiciones administrativas de carácter general ante el órgano superior jerárquico del que las dictó.",
+    "D) Podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo."
+  ]
+},
+{
+  numb: 115,
+  question: "Contra la resolución de un recurso de reposición:",
+  answer: "A) No podrá interponerse de nuevo dicho recurso.",
+  options: [
+    "A) No podrá interponerse de nuevo dicho recurso.",
+    "B) Podrá interponerse un nuevo recurso de reposición.",
+    "C) Podrá interponerse de nuevo recurso de reposición pero ante el órgano superior jerárquico del que lo resolvió.",
+    "D) Procederá el recurso extraordinario de revisión, siempre y cuando concurran las circunstancias previstas en el art. 109.1 de la Ley 39/2015, de 1 de octubre."
+  ]
+},
+{
+  numb: 116,
+  question: "Contra los actos administrativos que ponen fin a la vía administrativa, ¿qué recurso podremos interponer en vía administrativa?",
+  answer: "C) Recurso potestativo de reposición.",
+  options: [
+    "A) Ninguno.",
+    "B) Recurso de alzada.",
+    "C) Recurso potestativo de reposición.",
+    "D) Alzada o extraordinario de revisión."
+  ]
+},
+{
+  numb: 117,
+  question: "El recurso de alzada se resuelve por:",
+  answer: "A) El superior jerárquico del órgano que dictó el acto que se impugna.",
+  options: [
+    "A) El superior jerárquico del órgano que dictó el acto que se impugna.",
+    "B) El mismo órgano que dictó el acto que se impugna.",
+    "C) El Ministro competente, siempre.",
+    "D) La Presidencia del Gobierno."
+  ]
+},
+{
+  numb: 118,
+  question: "Ante un acto no expreso, el solicitante y otros posibles interesados podrán interponer recurso de reposición ¿en qué plazo?:",
+  answer: "C) En cualquier momento a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+  options: [
+    "A) En el plazo de tres meses a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+    "B) En el plazo de seis meses a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+    "C) En cualquier momento a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+    "D) En el plazo de un año a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto."
+  ]
+},
+{
+  numb: 119,
+  question: "¿Cuál no es un recurso de los recogidos en la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas?",
+  answer: "D) Ninguna respuesta es correcta.",
+  options: [
+    "A) Recurso potestativo de reposición.",
+    "B) Recurso de alzada.",
+    "C) Recurso extraordinario de revisión.",
+    "D) Ninguna respuesta es correcta."
+  ]
+},
+{
+  numb: 120,
+  question: "Contra los actos firmes en vía administrativa, sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo:",
+  answer: "B) 125.1.",
+  options: [
+    "A) 124.1.",
+    "B) 125.1.",
+    "C) 126.1.",
+    "D) 127.1."
+  ]
+},
+{
+  numb: 121,
+  question: "Podrán interponerse, por los interesados, los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de la Ley 39/2015:",
+  answer: "D) Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos.",
+  options: [
+    "A) Contra las resoluciones y los actos de trámite.",
+    "B) Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto.",
+    "C) Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento.",
+    "D) Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos."
+  ]
+},
+{
+  numb: 122,
+  question: "Las leyes podrán sustituir el recurso de alzada, en supuestos o ámbitos sectoriales determinados, y cuando la especificidad de la materia así lo justifique, ante órganos colegiados o Comisiones específicas no sometidas a instrucciones jerárquicas, con respeto a los principios, garantías y plazos que la Ley 39/2015, de 1 de octubre, reconoce a las personas y a los interesados en todo procedimiento administrativo por otros procedimientos de:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Impugnación.",
+    "B) Mediación y arbitraje.",
+    "C) Conciliación, mediación y arbitraje.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 123,
+  question: "Señale la respuesta incorrecta. Ponen fin a la vía administrativa:",
+  answer: "C) Las resoluciones de los procedimientos a que se refiere el artículo 112.3.",
+  options: [
+    "A) Las resoluciones de los recursos de alzada.",
+    "B) Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.",
+    "C) Las resoluciones de los procedimientos a que se refiere el artículo 112.3.",
+    "D) Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento."
+  ]
+},
+{
+  numb: 124,
+  question: "Señale la respuesta incorrecta. Además de lo previsto en el artículo 114.1 de la Ley 39/2015, en el ámbito estatal ponen fin a la vía administrativa los actos y resoluciones siguientes:",
+  answer: "B) Los emanados de los Consejeros y los Secretarios de Estado en el ejercicio de las competencias que tienen atribuidas los órganos de los que son titulares.",
+  options: [
+    "A) Los actos administrativos de los miembros y órganos del Gobierno.",
+    "B) Los emanados de los Consejeros y los Secretarios de Estado en el ejercicio de las competencias que tienen atribuidas los órganos de los que son titulares.",
+    "C) Los emanados de los órganos directivos con nivel de Director general o superior, en relación con las competencias que tengan atribuidas en materia de personal.",
+    "D) En los Organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado, los emanados de los máximos órganos de dirección unipersonales o colegiados, de acuerdo con lo que establezcan sus estatutos, salvo que por ley se establezca otra cosa."
+  ]
+},
+{
+  numb: 125,
+  question: "Cuál no sería una causa de inadmisión de un recurso según el artículo 116 de la Ley 39/2015.",
+  answer: "B) Tratarse de un acto susceptible de recurso.",
+  options: [
+    "A) Carecer de legitimación el recurrente.",
+    "B) Tratarse de un acto susceptible de recurso.",
+    "C) Haber transcurrido el plazo para la interposición del recurso.",
+    "D) Carecer el recurso manifiestamente de fundamento."
+  ]
+},
+{
+  numb: 126,
+  question: "La norma que regula la tarjeta sanitaria canaria, el documento sanitario de inclusión temporal y el acceso a las prestaciones públicas de asistencia sanitaria y farmacéutica es:",
+  answer: "B) El Decreto 56/2007, de 13 de Marzo.",
+  options: [
+    "A) La Ley 56/2007, de 13 de Marzo.",
+    "B) El Decreto 56/2007, de 13 de Marzo.",
+    "C) El Real Decreto 56/2007, de 13 de Marzo.",
+    "D) El Decreto 46/2007, de 13 de Marzo."
+  ]
+},
+{
+  numb: 127,
+  question: "Según el Decreto 56/2007, de 13 de marzo, la tarjeta sanitaria individual es un instrumento:",
+  answer: "A) Contrastado.",
+  options: [
+    "A) Contrastado.",
+    "B) Multilateral.",
+    "C) De uso exclusivo y polivalente.",
+    "D) Civil y transferible."
+  ]
+},
+{
+  numb: 128,
+  question: "Según el Decreto 56/2007, de 13 de marzo, podrán ser titulares del documento sanitario de inclusión temporal:",
+  answer: "B) Ciudadanos, cualquiera que sea su nacionalidad, que se encuentren en Canarias, que no tengan derecho a la tarjeta sanitaria canaria regulada en el capítulo II del Decreto 56/2007, ni la tarjeta sanitaria europea u otro documento previsto en el artículo 15 de la misma norma, y cuya asistencia sanitaria sea calificada como urgente por un facultativo hasta que se produzca el alta médica.",
+  options: [
+    "A) Ciudadanos, cualquiera que sea su nacionalidad, que se encuentren en Canarias, que no tengan derecho a la tarjeta sanitaria canaria regulada en el capítulo II del decreto 56/2007, ni a tarjeta sanitaria europea u otro documento previsto en el artículo 15 de la misma norma.",
+    "B) Ciudadanos, cualquiera que sea su nacionalidad, que se encuentren en Canarias, que no tengan derecho a la tarjeta sanitaria canaria regulada en el capítulo II del Decreto 56/2007, ni la tarjeta sanitaria europea u otro documento previsto en el artículo 15 de la misma norma, y cuya asistencia sanitaria sea calificada como urgente por un facultativo hasta que se produzca el alta médica.",
+    "C) Extranjeros de cualquier edad y mujeres embarazadas durante el embarazo, parto y posparto.",
+    "D) Ninguna de las respuestas es correcta."
+  ]
+},
+{
+  numb: 129,
+  question: "Según el Decreto 56/2007, de 13 de marzo, el acceso a las prestaciones a las que se tenga derecho, de atención sanitaria pública y farmacéutica, se realizará a través de los siguientes documentos:",
+  answer: "C) Tarjeta sanitaria canaria, documento sanitario de inclusión temporal, tarjeta sanitaria individual propia del servicio autonómico de salud del que procedan para los ciudadanos desplazados o tarjeta sanitaria europea.",
+  options: [
+    "A) Tarjeta sanitaria canaria o documento sanitario de inclusión temporal.",
+    "B) Tarjeta sanitaria canaria, documento sanitario de inclusión temporal. O tarjeta sanitaria individual propia del servicio autonómico de salud del que procedan para los ciudadanos desplazados.",
+    "C) Tarjeta sanitaria canaria, documento sanitario de inclusión temporal, tarjeta sanitaria individual propia del servicio autonómico de salud del que procedan para los ciudadanos desplazados o tarjeta sanitaria europea.",
+    "D) Tarjeta sanitaria canaria o tarjeta sanitaria propia del servicio autonómico del que procedan para los ciudadanos desplazados."
+  ]
+},
+{
+  numb: 130,
+  question: "Según el Decreto 56/2007, de 13 de marzo, el organismo competente para la expedición de la tarjeta sanitaria canaria es:",
+  answer: "A) El Servicio Canario de la Salud.",
+  options: [
+    "A) El Servicio Canario de la Salud.",
+    "B) Los Centros Insulares de Salud.",
+    "C) El Sistema Nacional de Salud.",
+    "D) Los órganos competentes en materia de sanidad en cada uno de los cabildos."
+  ]
+},
+{
+  numb: 131,
+  question: "Según el Decreto 56/2007, de 13 de marzo, en la tarjeta sanitaria canaria constará la leyenda:",
+  answer: "B) Esta tarjeta le permite el acceso a los servicios de todo el Sistema Nacional de Salud.",
+  options: [
+    "A) Esta tarjeta le permite el acceso a los servicios del Sistema Nacional de Salud y del Sistema Canario de la Salud.",
+    "B) Esta tarjeta le permite el acceso a los servicios de todo el Sistema Nacional de Salud.",
+    "C) Esta tarjeta le permite el acceso a los servicios del Sistema Nacional de Salud, de los servicios farmacéuticos y del Sistema Canario de Salud.",
+    "D) Esta tarjeta le permite el acceso a los servicios de todo el Sistema Nacional de Salud y a los de la Unión Europea."
+  ]
+},
+{
+  numb: 132,
+  question: "Según el Decreto 56/2007, de 13 de marzo, la tarjeta sanitaria canaria es definida como:",
+  answer: "B) Un documento administrativo, nominativo e intransferible.",
+  options: [
+    "A) Un documento administrativo y nominativo.",
+    "B) Un documento administrativo, nominativo e intransferible.",
+    "C) Un documento oficial, administrativo, nominativo e intransferible.",
+    "D) Un documento público, nominativo y oficial."
+  ]
+},
+{
+  numb: 133,
+  question: "Según el Decreto 56/2007, de 13 de marzo, el órgano competente del Servicio Canario de la Salud, a la vista de lo instruido, procederá a dictar y notificar la correspondiente resolución y a expedir, en su caso, la tarjeta sanitaria o el documento que corresponda, en el plazo máximo de:",
+  answer: "B) 6 meses.",
+  options: [
+    "A) 3 meses.",
+    "B) 6 meses.",
+    "C) 1 año.",
+    "D) 5 meses."
+  ]
+},
+{
+  numb: 134,
+  question: "Según el Decreto 56/2007, de 13 de marzo, la solicitud de tarjeta sanitaria canaria y del documento sanitario de inclusión temporal dirigida al órgano competente del Servicio Canario de la Salud se presentará:",
+  answer: "C) En cualquiera de sus centros asistenciales o administrativos, sin perjuicio de su presentación en cualquiera de los lugares y formas señalados por la legislación de procedimiento administrativo común.",
+  options: [
+    "A) Por correo certificado.",
+    "B) En la Consejería de Sanidad.",
+    "C) En cualquiera de sus centros asistenciales o administrativos, sin perjuicio de su presentación en cualquiera de los lugares y formas señalados por la legislación de procedimiento administrativo común.",
+    "D) Sólo de forma telemática."
+  ]
+},
+{
+  numb: 135,
+  question: "Según el Decreto 56/2007, de 13 de marzo, los ciudadanos residentes que estén empadronados en cualquiera de los municipios de la Comunidad Autónoma de Canarias y que acrediten el derecho a la asistencia sanitaria pública, tienen:",
+  answer: "B) El derecho y el deber de obtener la tarjeta sanitaria canaria.",
+  options: [
+    "A) El derecho de obtener la tarjeta sanitaria canaria.",
+    "B) El derecho y el deber de obtener la tarjeta sanitaria canaria.",
+    "C) El deber de obtener la tarjeta sanitaria canaria.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 136,
+  question: "Según el Decreto 56/2007, de 13 de marzo, se podrán regular los periodos de vigencia temporal de la tarjeta sanitaria canaria y del documento sanitario de inclusión temporal mediante orden:",
+  answer: "A) De la Consejería competente en materia de sanidad.",
+  options: [
+    "A) De la Consejería competente en materia de sanidad.",
+    "B) Del Ministerio de Sanidad y Consumo.",
+    "C) Del Instituto Nacional de la Seguridad Social.",
+    "D) Del Sistema Nacional de Salud."
+  ]
+},
+{
+  numb: 137,
+  question: "Según el Real Decreto 183/2004, de 30 de enero, todas las tarjetas sanitarias incorporarán una serie de datos básicos comunes y estarán vinculadas:",
+  answer: "A) A un código de identificación personal único para cada ciudadano en el Sistema Nacional de Salud.",
+  options: [
+    "A) A un código de identificación personal único para cada ciudadano en el Sistema Nacional de Salud.",
+    "B) A un código de identificación personal multilateral para cada ciudadano en el Sistema Nacional de Salud.",
+    "C) A un código de identificación nacional polivalente para cada ciudadano en el Sistema Nacional de Salud.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 138,
+  question: "Los servicios de información administrativa y atención al ciudadano se regulan en:",
+  answer: "C) En ambas normativas.",
+  options: [
+    "A) Real Decreto 208/1996, de 9 de febrero.",
+    "B) Decreto 44/2007, de 27 de febrero.",
+    "C) En ambas normativas.",
+    "D) Todas son incorrectas."
+  ]
+},
+{
+  numb: 139,
+  question: "Según el artículo 7 del Real Decreto 208/1996, de 9 de febrero, por el que se regulan los servicios de información administrativa y atención al ciudadano, las oficinas de información y atención al ciudadano que constituyen la red informativa general son:",
+  answer: "D) Ninguna de las respuestas es correcta.",
+  options: [
+    "A) Las oficinas centrales y atención al ciudadano en los servicios centrales y de los órganos territoriales de la Administración General del Estado.",
+    "B) Las oficinas locales y atención al ciudadano en los servicios locales y de los órganos locales de la Administración Local.",
+    "C) Las oficinas centrales y atención al ciudadano en los servicios centrales y de los órganos regionales de la Administración Autonómica.",
+    "D) Ninguna de las respuestas es correcta."
+  ]
+},
+{
+  numb: 140,
+  question: "Según el Real Decreto 208/1996, de 9 de febrero, la información general:",
+  answer: "A) Se facilitará obligatoriamente a los ciudadanos, sin exigir para ello la acreditación de legitimación alguna.",
+  options: [
+    "A) Se facilitará obligatoriamente a los ciudadanos, sin exigir para ello la acreditación de legitimación alguna.",
+    "B) Cuando resulte conveniente una mayor difusión, deberá ofrecerse a los grupos sociales o instituciones aunque no estén interesados en su conocimiento.",
+    "C) Ninguna de las respuestas corresponde con la información general.",
+    "D) Es la referida a los requisitos jurídicos o técnicos que las disposiciones impongan a los proyectos, actuaciones o solicitudes que los ciudadanos se propongan realizar."
+  ]
+},
+{
+  numb: 141,
+  question: "Atendiendo a lo dispuesto en el artículo 8 del Real Decreto 208/1996, de 9 de febrero, ¿dónde radicarán, salvo que circunstancias singulares aconsejen otro emplazamiento, las oficinas centrales de información y atención al ciudadano?",
+  answer: "C) En la sede de cada Departamento Ministerial.",
+  options: [
+    "A) En la sede de cada Departamento Autonómico.",
+    "B) En la sede de cada Departamento Regional.",
+    "C) En la sede de cada Departamento Ministerial.",
+    "D) No tienen que estar radicadas en ningún emplazamiento concreto."
+  ]
+},
+{
+  numb: 142,
+  question: "La actividad de información, atención y orientación ciudadana, de la Administración Pública de la Comunidad Autónoma de Canarias tiene como finalidad según el Decreto 44/2007, de 27 de febrero:",
+  answer: "B) Recabar y proporcionar la información de interés para los ciudadanos relacionada con las actividades y servicios que presta dicha Administración, sus organismos autónomos y entidades públicas vinculadas o dependientes, y orientar y facilitar el acceso a los mismos, así como mejorar la relación con los usuarios ciudadanos.",
+  options: [
+    "A) Contener los testimonios de las actividades de las instituciones y de las personas de nuestra comunidad.",
+    "B) Recabar y proporcionar la información de interés para los ciudadanos relacionada con las actividades y servicios que presta dicha Administración, sus organismos autónomos y entidades públicas vinculadas o dependientes, y orientar y facilitar el acceso a los mismos, así como mejorar la relación con los usuarios ciudadanos.",
+    "C) Recabar y proporcionar la información de interés para los ciudadanos relacionada solo con servicios que presta la Administración General, sus organismos estatales y entidades privadas vinculadas o dependientes.",
+    "D) Ninguna de las respuestas coincide con dicha finalidad."
+  ]
+},
+{
+  numb: 143,
+  question: "Establece el artículo 9 del Real Decreto 208/1996, de 9 de febrero, en relación con los órganos territoriales de la Administración General del Estado, que existirán, con el carácter de oficinas centrales, oficinas de información y atención al ciudadano dependientes de:",
+  answer: "D) Las Delegaciones Insulares del Gobierno.",
+  options: [
+    "A) Las Delegaciones Locales.",
+    "B) Las Delegaciones Ministeriales.",
+    "C) Ninguna de las respuestas es correcta.",
+    "D) Las Delegaciones Insulares del Gobierno."
+  ]
+},
+{
+  numb: 144,
+  question: "Según el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social., se entiende por discapacidad:",
+  answer: "C) La situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barreras que limiten o impidan su participación plena y efectiva en la sociedad, en igualdad de condiciones con los demás.",
+  options: [
+    "A) La situación que resulta de la interacción entre las personas con deficiencias previsiblemente temporales y cualquier tipo de barreras que limiten o impidan su participación plena y efectiva en la sociedad, en igualdad de condiciones con los demás.",
+    "B) La situación que resulta de la interacción entre las personas con deficiencias previsiblemente coyunturales y cualquier tipo de barreras que limiten o impidan su participación plena y efectiva en la sociedad, en igualdad de condiciones con los demás.",
+    "C) La situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barreras que limiten o impidan su participación plena y efectiva en la sociedad, en igualdad de condiciones con los demás.",
+    "D) Todas las respuestas son correctas."
+  ]
+},
+{
+  numb: 145,
+  question: "Según el Real Decreto 208/1996, de 9 de febrero, las oficinas de información y atención al ciudadano de los órganos territoriales de la Administración General del Estado son:",
+  answer: "B) De carácter central y sectorial.",
+  options: [
+    "A) De carácter general y particular.",
+    "B) De carácter central y sectorial.",
+    "C) De carácter individual y social.",
+    "D) De carácter individual y sectorial."
+  ]
+},
+{
+  numb: 146,
+  question: "¿En qué artículo del Real Decreto 208/1996, de 9 de febrero, por el que se regulan los servicios de información administrativa y atención al ciudadano se regula la información particular?",
+  answer: "B) Artículo 3.",
+  options: [
+    "A) Artículo 2.",
+    "B) Artículo 3.",
+    "C) Artículo 4.",
+    "D) Artículo 5."
+  ]
+},
+{
+  numb: 147,
+  question: "Según el Real Decreto 208/1996, de 9 de febrero, la Información administrativa puede ser:",
+  answer: "A) General y particular.",
+  options: [
+    "A) General y particular.",
+    "B) Colectiva e individual.",
+    "C) Social y no social.",
+    "D) General e individual."
+  ]
+},
+{
+  numb: 148,
+  question: "Según el Real Decreto 208/1996, de 9 de febrero, son funciones específicas del Centro de Información Administrativa:",
+  answer: "D) Todas las respuestas anteriores son correctas.",
+  options: [
+    "A) Mantener actualizadas y distribuir las bases de datos de la Administración General del Estado.",
+    "B) Cooperar en el desarrollo de las unidades y oficinas de información de los demás Departamentos y organismos de la Administración General del Estado.",
+    "C) Promover y organizar, en colaboración con el Instituto Nacional de Administración Pública, cursos de capacitación en materias relacionadas con las funciones propias de las unidades de información administrativa.",
+    "D) Todas las respuestas anteriores son correctas."
+  ]
+},
+{
+  numb: 149,
+  question: "Según el Real Decreto 208/1996, de 9 de febrero, la información administrativa es:",
+  answer: "B) Es un cauce adecuado a través del cual los ciudadanos pueden acceder al conocimiento de sus derechos y obligaciones y a la utilización de los bienes y servicios públicos.",
+  options: [
+    "A) Es un fin adecuado a través del cual los ciudadanos pueden acceder al conocimiento de sus derechos y obligaciones y a la utilización de los bienes y servicios públicos.",
+    "B) Es un cauce adecuado a través del cual los ciudadanos pueden acceder al conocimiento de sus derechos y obligaciones y a la utilización de los bienes y servicios públicos.",
+    "C) Es un cauce adecuado a través del cual los ciudadanos pueden acceder al conocimiento de sus deberes y obligaciones y a la utilización de los bienes y servicios públicos.",
+    "D) Es un fin adecuado a través del cual los ciudadanos pueden acceder al conocimiento de sus deberes y obligaciones y a la utilización de los bienes y servicios públicos"
+  ]
+},
+{
+  numb: 150,
+  question: "Según el Real Decreto 208/1996, de 9 de febrero, ¿sólo los interesados en un procedimiento tienen acceso a la información particular?",
+  answer: "C) No, también sus representantes legales.",
+  options: [
+    "A) Sí.",
+    "B) No, también sus familiares.",
+    "C) No, también sus representantes legales.",
+    "D) No, también sus familiares y sus representantes legales."
+  ]
+},
+{
+  numb: 151,
+  question: "Según el Art. 15 de La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, cuál de las siguientes no forman parte del contenido mínimo de la historia clínica:",
+  answer: "D) Todas están incluidas en el contenido mínimo.",
+  options: [
+    "A) El informe de urgencias.",
+    "B) La hoja de interconsulta.",
+    "C) El informe clínico de alta.",
+    "D) Todas están incluidas en el contenido mínimo."
+  ]
+},
+{
+  numb: 152,
+  question: "Según el art. 15 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación sanitaria, cuál de los siguientes documentos no forma parte del contenido mínimo de la historia clínica:",
+  answer: "D) Hoja de reclamaciones.",
+  options: [
+    "A) La anamnesis y la exploración física.",
+    "B) La aplicación terapéutica de enfermería.",
+    "C) El informe de anestesia.",
+    "D) Hoja de reclamaciones."
+  ]
+},
+{
+  numb: 153,
+  question: "En relación con los usos de la historia clínica regulados en el art. 16 de La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, señale la respuesta correcta:",
+  answer: "A) La historia clínica es un instrumento destinado fundamentalmente a garantizar una asistencia adecuada al paciente.",
+  options: [
+    "A) La historia clínica es un instrumento destinado fundamentalmente a garantizar una asistencia adecuada al paciente.",
+    "B) Cada Comunidad Autónoma establecerá los métodos que posibiliten en todo momento el acceso a la historia clínica de cada paciente por los profesionales que le asisten.",
+    "C) Cada centro sanitario regulará el procedimiento para que quede constancia del acceso a la historia clínica y su uso.",
+    "D) Todas son ciertas."
+  ]
+},
+{
+  numb: 154,
+  question: "Según el art. 16.6 de La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el personal que accede a los datos de la historia clínica en el ejercicio de sus funciones queda sujeto al deber de:",
+  answer: "B) Secreto.",
+  options: [
+    "A) Vigilancia.",
+    "B) Secreto.",
+    "C) Deontología.",
+    "D) Ninguna respuesta es correcta."
+  ]
+},
+{
+  numb: 155,
+  question: "De acuerdo con la ley 41/2002, un instrumento destinado fundamentalmente a garantizar una asistencia adecuada al paciente es:",
+  answer: "C) La historia clínica.",
+  options: [
+    "A) El informe de anatomía patológica.",
+    "B) La hoja de interconsulta.",
+    "C) La historia clínica.",
+    "D) Los informes de exploraciones complementarias."
+  ]
+},
+{
+  numb: 156,
+  question: "Según el art. 17 de La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica sobre conservación de la documentación clínica, los centros sanitarios tienen obligación de conservar la documentación clínica:",
+  answer: "D) Aunque no necesariamente en el soporte original.",
+  options: [
+    "A) En el soporte original.",
+    "B) Como mínimo, tres años contados desde la fecha del alta de cada proceso asistencial.",
+    "C) Como mínimo, cuatro años contados desde la fecha del alta de cada proceso asistencial.",
+    "D) Aunque no necesariamente en el soporte original."
+  ]
+},
+{
+  numb: 157,
+  question: "Según la Ley 41/2002, de 14 de noviembre, la obligación de conservar la documentación clínica en condiciones que garanticen su correcto mantenimiento y seguridad la tiene:",
+  answer: "B) Los centros sanitarios.",
+  options: [
+    "A) La Comunidad Autónoma correspondiente.",
+    "B) Los centros sanitarios.",
+    "C) La Comunidad Autónoma correspondiente y los centros sanitarios.",
+    "D) Todo el personal del centro sanitario."
+  ]
+},
+{
+  numb: 158,
+  question: "Según la Ley 41/2002, de 14 de noviembre, ¿cuál es el tiempo mínimo que se debe conservar la documentación clínica desde la fecha del alta de cada proceso asistencial?",
+  answer: "C) 5 años.",
+  options: [
+    "A) 3 años.",
+    "B) 4 años.",
+    "C) 5 años.",
+    "D) 10 años."
+  ]
+},
+{
+  numb: 159,
+  question: "Según el artículo 18 de La Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, señale la incorrecta:",
+  answer: "A) Según la normativa vigente el paciente tiene derecho de acceso al contenido íntegro de su historia clínica.",
+  options: [
+    "A) Según la normativa vigente el paciente tiene derecho de acceso al contenido íntegro de su historia clínica.",
+    "B) Según la normativa vigente el paciente tiene derecho de acceso al contenido íntegro de su historia clínica, con ciertas limitaciones.",
+    "C) El acceso de un tercero a la historia clínica, motivado por un riesgo para su salud, se limitará a los datos pertinentes.",
+    "D) El derecho de acceso del paciente a la historia clínica puede ejercerse también por representación debidamente acreditada."
+  ]
+},
+{
+  numb: 160,
+  question: "Según el Decreto 105/2000, de 26 de junio, por el que se regulan determinados aspectos del funcionamiento de los registros de la Administración Autonómica de Canarias, los registros se crearán, modificarán o suprimirán mediante:",
+  answer: "D) Orden Departamental que deberá ser publicada en el Boletín Oficial de Canarias.",
+  options: [
+    "A) Sólo podrán ser creados por el Ministro correspondiente por ser una competencia estatal.",
+    "B) Todas las respuestas son falsas.",
+    "C) Decreto del Gobierno de Canarias y deberá ser publicada en el Boletín Oficial de Canarias.",
+    "D) Orden Departamental que deberá ser publicada en el Boletín Oficial de Canarias."
+  ]
+},
+{
+  numb: 161,
+  question: "Según el Decreto 105/2000, de 26 de junio, por el que se regulan determinados aspectos del funcionamiento de los registros de la Administración Autonómica de Canarias, señale la respuesta incorrecta:",
+  answer: "B) Todas las solicitudes, que se presenten en papel, o no en modelo normalizado, deberán llevar estampada en todas las páginas un sello o validación mecánica en que conste la identificación de la oficina de registro, los números de registro, la fecha y hora, con expresión del minuto, de la entrada o salida del documento.",
+  options: [
+    "A) Los registros generales y auxiliares, una vez concluido al trámite registral, cursarán los escritos y comunicaciones a las unidades administrativas correspondientes y a sus destinatarios de inmediato, y en ningún caso después del siguiente día.",
+    "B) Todas las solicitudes, que se presenten en papel, o no en modelo normalizado, deberán llevar estampada en todas las páginas un sello o validación mecánica en que conste la identificación de la oficina de registro, los números de registro, la fecha y hora, con expresión del minuto, de la entrada o salida del documento.",
+    "C) Los registros auxiliares comunicarán al registro general del que dependan la totalidad de los asientos que practiquen, remitiendo copia de los mismos.",
+    "D) Todo órgano administrativo tendrá asignado un registro general. No obstante, un mismo registro podrá servir a varios órganos administrativos, siempre que así se prevea en la orden de creación."
+  ]
+},
+{
+  numb: 162,
+  question: "Según el artículo 49.3 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, forman parte del Patrimonio Documental los documentos con una antigüedad superior a los cuarenta años generados, conservados o reunidos en el ejercicio de sus actividades, indique la respuesta correcta:",
+  answer: "D) Todas las respuestas son correctas.",
+  options: [
+    "A) Entidad y asociaciones de carácter político.",
+    "B) Entidad y asociaciones de carácter sindical.",
+    "C) Entidad y asociaciones de carácter religioso.",
+    "D) Todas las respuestas son correctas."
+  ]
+},
+{
+  numb: 163,
+  question: "Según la Ley 41/2002, de 14 de noviembre, en relación al informe de alta:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Todo paciente, familiar o persona vinculada a él, en su caso, tendrá el derecho a recibir del centro o servicio sanitario, una vez finalizado el proceso asistencial.",
+    "B) Las características, requisitos y condiciones de los informes de alta se determinarán reglamentariamente por las Administraciones sanitarias autonómicas.",
+    "C) Todo paciente o usuario tiene derecho a que se le faciliten los certificados acreditativos de su estado de salud.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 164,
+  question: "Según el Decreto 94/1999, de 25 de mayo, corresponde al titular del órgano del que dependa la Oficina Canaria de Defensa de los Derechos de los Usuarios Sanitarios (ODDUS) la contestación a reclamaciones y respuesta de las solicitudes, iniciativas y sugerencias siguientes:",
+  answer: "D) Ninguna respuesta es correcta.",
+  options: [
+    "A) Las relativas al funcionamiento e información de los servicios administrativos no sanitarios.",
+    "B) Las reclamaciones de contenido patrimonial.",
+    "C) Las reclamaciones previas a la vía judicial, los recursos administrativos.",
+    "D) Ninguna respuesta es correcta."
+  ]
+},
+{
+  numb: 165,
+  question: "La Orden de 28 de febrero de 2005 de la Consejería de Sanidad, tiene por objeto:",
+  answer: "A) Aprobar la Carta de los Derechos y de los Deberes de los Pacientes y Usuarios Sanitarios del Sistema Canario de la Salud.",
+  options: [
+    "A) Aprobar la Carta de los Derechos y de los Deberes de los Pacientes y Usuarios Sanitarios del Sistema Canario de la Salud.",
+    "B) Crear la Oficina de Defensa de los Derechos de los Usuarios Sanitarios del Sistema Canario de la Salud.",
+    "C) Aprobar los carteles que se confeccionen y se fijarán en las paredes con mayor tránsito de pacientes o usuarios, de acuerdo con las características de los Centros.",
+    "D) Aprobar los folletos, dípticos y hojas informativas se habilitarán en mostradores y lugares que puedan ser fácilmente accesibles a los usuarios para su consulta."
+  ]
+},
+{
+  numb: 166,
+  question: "Tanto la ODDUS como las unidades que dependen funcionalmente de ella, en la tramitación de las reclamaciones, solicitudes, iniciativas y sugerencias, según el Decreto 94/1999, de 25 de mayo, actuarán con sometimiento a los siguientes principios, excepto:",
+  answer: "A) Autoevaluación.",
+  options: [
+    "A) Autoevaluación.",
+    "B) Respeto a la autonomía profesional.",
+    "C) Transparencia en sus actuaciones y participación.",
+    "D) Buena fe y confianza legítima."
+  ]
+},
+{
+  numb: 167,
+  question: "¿Hasta qué edad reconoce La Carta de Derechos y de los Deberes de los Pacientes y Usuarios Sanitarios, aprobada por la Orden de la Consejería de Sanidad de 28 de febrero de 2005, el derecho a la libre elección de pediatra?",
+  answer: "B) 14 años.",
+  options: [
+    "A) 15 años.",
+    "B) 14 años.",
+    "C) 13 años.",
+    "D) 12 años."
+  ]
+},
+{
+  numb: 168,
+  question: "Según el Decreto 94/1999, de 25 de mayo, corresponde a la Oficina (ODDUS), en el área de reclamaciones, el desempeño de las siguientes funciones. Señale la opción incorrecta:",
+  answer: "D) Reclamaciones patrimoniales por el anormal funcionamiento de los servicios sanitarios, cuando existen daños y perjuicios.",
+  options: [
+    "A) Reclamaciones, que constituyen las quejas de los usuarios sobre su insatisfacción por los servicios recibidos.",
+    "B) Solicitudes, que son las demandas de información escritas sobre servicios y prestaciones sanitarias, derechos y deberes de los usuarios, procedimientos, normativa y demás cuestiones de naturaleza sanitaria.",
+    "C) Iniciativas, que son las propuestas que formulan los usuarios para mejorar el grado de cumplimiento y observancia de los derechos y de los deberes de los usuarios, del funcionamiento de los servicios sanitarios y del cuidado y atención de los enfermos.",
+    "D) Reclamaciones patrimoniales por el anormal funcionamiento de los servicios sanitarios, cuando existen daños y perjuicios."
+  ]
+},
+{
+  numb: 169,
+  question: "En el artículo 4 del Decreto 94/1999 de 25 de mayo, por el que se regula la estructura y el funcionamiento de la Oficina Canaria de Defensa de los Derechos de los Usuarios Sanitarios (ODDUS) y la tramitación de reclamaciones, solicitudes, iniciativas y sugerencias en el ámbito sanitario, se dispone que, la actuación administrativa de la Oficina abarca las siguientes áreas funcionales, señale la incorrecta:",
+  answer: "A) Atender, tramitar y elevar al órgano competente la propuesta de contestación de las reclamaciones presentadas por los usuarios sanitarios y no sanitarios.",
+  options: [
+    "A) Atender, tramitar y elevar al órgano competente la propuesta de contestación de las reclamaciones presentadas por los usuarios sanitarios y no sanitarios.",
+    "B) Gestionar y custodiar un Registro de reclamaciones de los usuarios sanitarios, en coordinación con los registros que al efecto se constituyan en las unidades funcionales dependientes.",
+    "C) Elaborar estadísticas sobre las reclamaciones presentadas, clasificándolas de acuerdo con criterios geográficos, materiales, sectoriales o cualquier otro que estime pertinente.",
+    "D) Apoyar y asesorar a los órganos y unidades competentes en sus relaciones con todas aquellas entidades públicas y privadas, para la investigación y contestación de las reclamaciones presentadas por los usuarios sanitarios."
+  ]
+},
+{
+  numb: 170,
+  question: "Según el Decreto 94/1999, de 25 de mayo, corresponde a la Oficina (ODDUS), en el área de solicitudes, el desempeño de las siguientes funciones. Señale la opción incorrecta:",
+  answer: "D) Cualesquiera otras que el Director del Servicio Canario de la Salud le encomiende dentro de este área.",
+  options: [
+    "A) Atender, tramitar, responder y proponer, en su caso, al órgano competente, la respuesta de las solicitudes presentadas por los usuarios sanitarios, pacientes o familiares.",
+    "B) Gestionar y custodiar un Registro de solicitudes presentadas por los usuarios sanitarios, en coordinación con los registros que al efecto se constituyan en las unidades funcionales dependientes.",
+    "C) Cualesquiera otras que el titular de la Consejería competente en materia de sanidad le encomiende dentro de este área.",
+    "D) Cualesquiera otras que el Director del Servicio Canario de la Salud le encomiende dentro de este área."
+  ]
+},
+{
+  numb: 171,
+  question: "Según el Decreto 94/1999, de 25 de mayo, corresponde a la Oficina (ODDUS), en el área de iniciativas y sugerencias, el desempeño de las siguientes funciones. Señale la opción incorrecta:",
+  answer: "A) Apoyar y asesorar a los órganos y unidades competentes en sus relaciones con todas aquellas entidades públicas y privadas, para la investigación y contestación de las reclamaciones presentadas por los usuarios sanitarios.",
+  options: [
+    "A) Apoyar y asesorar a los órganos y unidades competentes en sus relaciones con todas aquellas entidades públicas y privadas, para la investigación y contestación de las reclamaciones presentadas por los usuarios sanitarios.",
+    "B) Gestionar, guardar y custodiar un Registro de iniciativas y sugerencias, en coordinación con los registros que al efecto se constituyan en las unidades funcionales dependientes.",
+    "C) Cualesquiera otras que se le encomiende dentro del área.",
+    "D) Atender, valorar y tramitar las iniciativas y sugerencias presentadas por los usuarios sanitarios para un mejor funcionamiento de los servicios y eficaz cumplimiento de sus derechos, recabando para ello de cualquier entidad, organismo, centro o servicio público o privado los informes y estudios de viabilidad, así como las propuestas o alternativas que dichas iniciativas y sugerencias pudieran dar lugar."
+  ]
+},
+{
+  numb: 172,
+  question: "Según el Decreto 94/1999, de 25 de mayo, corresponde a la Oficina (ODDUS), en el área de información, el desempeño de las siguientes funciones. Señale la opción incorrecta:",
+  answer: "B) Divulgar y difundir información sobre determinados procesos sanitarios y no sanitarios que a juicio del titular del Departamento competente en materia de sanidad o educación, resulten ser de interés para los usuarios sanitarios en general.",
+  options: [
+    "A) Recabar de las entidades y organismos públicos y privados del sector sanitario, cualquier tipo de información que considere oportuna para un mejor cumplimiento de sus funciones.",
+    "B) Divulgar y difundir información sobre determinados procesos sanitarios y no sanitarios que a juicio del titular el Departamento competente en materia de sanidad o educación, resulten ser de interés para los usuarios sanitarios en general.",
+    "C) Analizar, confeccionar, difundir y comunicar los resultados de las encuestas dirigidas a los usuarios",
+    "D) Elaborar la Memoria Anual de la Oficina."
+  ]
+},
+{
+  numb: 173,
+  question: "Señale la respuesta incorrecta. Según el artículo 8 del Decreto 94/1999, de 25 de mayo, corresponde al titular del órgano del que dependa la Oficina Canaria de Defensa de los Derechos de los Usuarios Sanitarios (ODDUS) la contestación a reclamaciones y respuesta de las solicitudes, iniciativas y sugerencias siguientes:",
+  answer: "D) Las que se refieran a las actuaciones realizadas en centros o servicios de carácter privado concertado",
+  options: [
+    "A) Las que afecten a más de un Área de Salud.",
+    "B) Las que por su complejidad exijan una especial labor investigadora, de información o estudio.",
+    "C) Las que se refieran a varios centros, servicios o establecimientos sanitarios.",
+    "D) Las que se refieran a las actuaciones realizadas en centros o servicios de carácter privado concertado"
+  ]
+},
+{
+  numb: 174,
+  question: "Señale la respuesta incorrecta. A los efectos de los expedientes y funciones previstas en el artículo 10 del Decreto 94/1999, de 25 de mayo, dependerán funcionalmente de la Oficina:",
+  answer: "B) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Privada.",
+  options: [
+    "A) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Pública.",
+    "B) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Privada.",
+    "C) Los Servicios análogos a los anteriores que existan o puedan crearse en las Gerencias de Atención Primaria y en las Gerencias de Servicios Sanitarios.",
+    "D) Las Unidades Insulares de la Oficina que se creen y se integren en la estructura orgánica de las Direcciones de las Áreas de Salud, así como las unidades de éstas destinadas al cumplimiento de las obligaciones contenidas en este Decreto en su área material de actividad."
+  ]
+},
+{
+  numb: 175,
+  question: "A los efectos de los expedientes y funciones previstas en el Decreto 94/1999, de 25 de mayo, que regula la ODDUS, dependerán funcionalmente de la Oficina:",
+  answer: "A) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Pública.",
+  options: [
+    "A) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Pública.",
+    "B) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Privada.",
+    "C) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos no integrados o adscritos en la Red Hospitalaria de Utilización Pública.",
+    "D) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos no integrados o adscritos en la Red Hospitalaria de Utilización Privada."
+  ]
+},
+{
+  numb: 176,
+  question: "Señale la respuesta incorrecta. Según el Decreto 94/1999, de 25 de mayo, corresponde al titular del órgano del que dependa la Oficina Canaria de Defensa de los Derechos de los Usuarios Sanitarios (ODDUS) la contestación a reclamaciones y respuesta de las solicitudes, iniciativas y sugerencias siguientes:",
+  answer: "C) Las que sean reiteradas por los usuarios con motivo de la falta de respuesta en plazo de las formuladas en cualquier nivel de actuación.",
+  options: [
+    "A) Las que se refieran a las actuaciones realizadas en centros o servicios de carácter privado no concertado.",
+    "B) Las disconformidades de los usuarios en relación con las contestaciones y respuestas de las reclamaciones y solicitudes recibidas en el primer nivel de actuación.",
+    "C) Las que sean reiteradas por los usuarios con motivo de la falta de respuesta en plazo de las formuladas en cualquier nivel de actuación.",
+    "D) Las que por su importancia, gravedad o trascendencia acuerde el titular de la Consejería competente en materia de sanidad."
+  ]
+},
+{
+  numb: 177,
+  question: "Según su artículo 1, la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales tiene por objeto:",
+  answer: "A) Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 18.4 de la Constitución Española.",
+  options: [
+    "A) Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 18.4 de la Constitución Española.",
+    "B) Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 28.4 de la Constitución Española.",
+    "C) Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 8.4 de la Constitución Española.",
+    "D) Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 38.4 de la Constitución Española."
+  ]
+},
+{
+  numb: 178,
+  question: "De conformidad con lo establecido en el artículo 2.2 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, esta ley orgánica no será de aplicación:",
+  answer: "B) A los tratamientos sometidos a la normativa sobre protección de materias clasificadas.",
+  options: [
+    "A) A los tratamientos de datos de personas incapacitadas judicialmente.",
+    "B) A los tratamientos sometidos a la normativa sobre protección de materias clasificadas.",
+    "C) No existen excepciones a la aplicación de esta ley orgánica.",
+    "D) A cualquier tratamiento total o parcialmente automatizado de datos personales."
+  ]
+},
+{
+  numb: 179,
+  question: "De conformidad con lo establecido en el artículo 4.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre la exactitud de los datos:",
+  answer: "B) Los datos serán exactos y, si fuere necesario, actualizados.",
+  options: [
+    "A) Los datos serán exactos.",
+    "B) Los datos serán exactos y, si fuere necesario, actualizados.",
+    "C) Los datos serán actualizados, no es necesario que sean exactos.",
+    "D) Los datos serán exactos, aunque nunca será necesario actualizarlos."
+  ]
+},
+{
+  numb: 180,
+  question: "De conformidad con lo establecido en el artículo 5 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre el deber de confidencialidad:",
+  answer: "B) La confidencialidad y el secreto profesional de los responsables y encargados del tratamiento de datos se mantendrán aún cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento.",
+  options: [
+    "A) La confidencialidad y el secreto profesional de los responsables y encargados del tratamiento de datos no se mantendrán al finalizar la relación del obligado con el responsable o encargado del tratamiento.",
+    "B) La confidencialidad y el secreto profesional de los responsables y encargados del tratamiento de datos se mantendrán aún cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento.",
+    "C) Solo el secreto profesional de los encargados del tratamiento de datos se mantendrán aún cuando finalizase la relación del obligado con el responsable o encargado del tratamiento.",
+    "D) Solo la confidencialidad de los encargados del tratamiento de datos se mantendrán aún cuando finalizase la relación del obligado con el responsable o encargado del tratamiento."
+  ]
+},
+{
+  numb: 181,
+  question: "De conformidad con lo establecido en el artículo 6.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, se entiende por consentimiento del afectado:",
+  answer: "A) Toda manifestación de voluntad libre, específica, informada e inequívoca por la que éste acepta el tratamiento de datos personales que le conciernen.",
+  options: [
+    "A) Toda manifestación de voluntad libre, específica, informada e inequívoca por la que éste acepta el tratamiento de datos personales que le conciernen.",
+    "B) Toda manifestación de voluntad libre, informada e inequívoca por la que éste acepta el tratamiento de datos personales que le conciernen.",
+    "C) Toda manifestación de voluntad específica e informada por la que éste acepta el tratamiento de datos personales que le conciernen.",
+    "D) Toda manifestación de voluntad libre y genérica por la que éste acepta el tratamiento de datos personales que le conciernen."
+  ]
+},
+{
+  numb: 182,
+  question: "De acuerdo con el artículo 7 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, el tratamiento de los datos personales de un menor de edad, fundado en el consentimiento, se considerará lícito:",
+  answer: "B) Siempre que sea menor de 14 años, solo cuando conste el consentimiento del titular de la patria potestad o tutela, con el alcance que determinen éstos.",
+  options: [
+    "A) Siempre que sea mayor de 14 años cuando conste su consentimiento, sin excepciones.",
+    "B) Siempre que sea menor de 14 años, solo cuando conste el consentimiento del titular de la patria potestad o tutela, con el alcance que determinen éstos.",
+    "C) Nunca podrá ser objeto de tratamiento si tiene una edad inferior a 13 años.",
+    "D) Siempre que sea mayor de 12 años cuando conste su consentimiento."
+  ]
+},
+{
+  numb: 183,
+  question: "De conformidad con lo establecido en el artículo 8.2 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en relación con el tratamiento de datos por obligación legal, interés público o ejercicio de poderes públicos:",
+  answer: "C) Solo podrá considerarse fundado en el cumplimiento de una misión realizada en interés público cuando derive de una competencia atribuida por una norma con rango de ley.",
+  options: [
+    "A) Solo podrá considerarse fundado en el cumplimiento de una misión realizada en interés público cuando derive de una competencia atribuida por una orden.",
+    "B) Solo podrá considerarse fundado en el cumplimiento de una misión realizada en interés público cuando derive de una competencia atribuida por una norma o resolución administrativa.",
+    "C) Solo podrá considerarse fundado en el cumplimiento de una misión realizada en interés público cuando derive de una competencia atribuida por una norma con rango de ley.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 184,
+  question: "Según el artículo 9.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en relación a las categorías especiales de datos personales:",
+  answer: "C) El solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+  options: [
+    "A) El solo consentimiento del afectado bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+    "B) El solo consentimiento del afectado bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical.",
+    "C) El solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+    "D) El solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su afiliación sindical y orientación política."
+  ]
+},
+{
+  numb: 185,
+  question: "El artículo 9 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, señala que una norma con rango de ley:",
+  answer: "A) Podrá amparar el tratamiento de datos en el ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, pública y privada, o la ejecución de un contrato de seguro del que el afectado sea parte.",
+  options: [
+    "A) Podrá amparar el tratamiento de datos en el ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, pública y privada, o la ejecución de un contrato de seguro del que el afectado sea parte.",
+    "B) No podrá amparar el tratamiento de datos en el ámbito de la salud aunque así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, pública y privada, o la ejecución de un contrato de seguro del que el afectado sea parte.",
+    "C) Podrá amparar el tratamiento de datos en el ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, sólo pública, o la ejecución de un contrato de seguro del que el afectado sea parte.",
+    "D) Podrá amparar el tratamiento de datos en el ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, sólo privada, o la ejecución de un contrato de seguro del que el afectado sea parte."
+  ]
+},
+{
+  numb: 186,
+  question: "Según el artículo 10.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el tratamiento de datos personales relativos a condenas e infracciones penales, para fines distintos de los de prevención, investigación, detección o enjuiciamiento de infracciones penales o de ejecución de sanciones penales, solo podrá llevarse a cabo cuando se encuentre amparado en:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Una norma de Derecho de la Unión.",
+    "B) En esta Ley Orgánica 3/2018. de 5 de diciembre.",
+    "C) En otras normas de rango legal.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 187,
+  question: "De conformidad con lo establecido en el artículo 12.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre las disposiciones generales sobre el ejercicio de los derechos:",
+  answer: "D) Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 podrán ejercerse directamente o por medio de representante legal o voluntario.",
+  options: [
+    "A) Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 solo podrán ejercerse directamente por el interesado.",
+    "B) Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 solo podrán ejercerse por medio de representante legal o voluntario.",
+    "C) Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 no podrán ejercerse por medio de representante voluntario.",
+    "D) Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 podrán ejercerse directamente o por medio de representante legal o voluntario."
+  ]
+},
+{
+  numb: 188,
+  question: "Según el artículo 12.3 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el encargado:",
+  answer: "D) Podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de sus derechos si así se estableciere en el contrato o acto jurídico que les vincule.",
+  options: [
+    "A) No podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de sus derechos.",
+    "B) No podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de sus derechos aunque se estableciere en el contrato que les vincule.",
+    "C) Podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de sus derechos independientemente de que se estableciere en el acto jurídico que les vincule",
+    "D) Podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio formuladas por los afectados de sus derechos si así se estableciere en el contrato o acto jurídico que les vincule."
+  ]
+},
+{
+  numb: 189,
+  question: "Según el artículo 13.3 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en relación al derecho de acceso a los datos personales:",
+  answer: "B) Se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de 6 meses a menos que exista causa legítima para ello.",
+  options: [
+    "A) Se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de 1 año a menos que exista causa legítima para ello.",
+    "B) Se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de 6 meses a menos que exista causa legítima para ello.",
+    "C) Se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de 2 años a menos que exista causa legítima para ello.",
+    "D) No se podrá considerar nunca repetitivo el ejercicio del derecho de acceso."
+  ]
+},
+{
+  numb: 190,
+  question: "Según el artículo 13.4 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado:",
+  answer: "B) La solicitud será considerada excesiva, por lo que dicho afectado asumirá el exceso de costes que su elección comporte.",
+  options: [
+    "A) La solicitud será considerada excesiva, por lo que no podrá realizarse.",
+    "B) La solicitud será considerada excesiva, por lo que dicho afectado asumirá el exceso de costes que su elección comporte.",
+    "C) La solicitud será considerada excesiva, por lo que el afectado y el responsable asumirán a partes iguales el exceso de costes que la elección del afectado comporte.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 191,
+  question: "El Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, establece que:",
+  answer: "B) La afiliación podrá practicarse a petición de las personas y entidades obligadas a dicho acto, a instancia de los interesados o de oficio por la Administración de la Seguridad Social.",
+  options: [
+    "A) La afiliación podrá practicarse a petición de las personas y entidades obligadas a dicho acto, a instancia de los interesados o de oficio por la Administración General del Estado.",
+    "B) La afiliación podrá practicarse a petición de las personas y entidades obligadas a dicho acto, a instancia de los interesados o de oficio por la Administración de la Seguridad Social.",
+    "C) La afiliación podrá practicarse a petición de las personas y entidades obligadas a dicho acto, a instancia de los interesados o de oficio por la Administración de la Comunidad Autónoma correspondiente",
+    "D) La afiliación no podrá practicarse a petición de las personas y entidades obligadas a dicho acto, a instancia de los interesados o de oficio por la Administración de la Seguridad Social."
+  ]
+},
+{
+  numb: 192,
+  question: "El Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, establece respecto a la afiliación:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Los empresarios estarán obligados a solicitar la afiliación al Sistema de la Seguridad Social de los trabajadores que ingresen a su servicio.",
+    "B) En el caso de que el empresario incumpla la obligación de solicitar la afiliación, el trabajador podrá instar su afiliación directamente al organismo competente de la Administración de la Seguridad Social.",
+    "C) El organismo competente de la Administración de la Seguridad Social podrá realizar de oficio la afiliación cuando se compruebe la inobservancia de la obligación de afiliación.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 193,
+  question: "El Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, establece respecto a la recaudación de las cuotas que:",
+  answer: "A) Los empresarios y, en su caso, las personas señaladas en los artículos 18 y 168.1 y 2, serán los obligados a ingresar la totalidad de las cuotas de este Régimen General en el plazo, lugar y forma establecidos en esta ley y en sus normas de aplicación y desarrollo.",
+  options: [
+    "A) Los empresarios y, en su caso, las personas señaladas en los artículos 18 y 168.1 y 2, serán los obligados a ingresar la totalidad de las cuotas de este Régimen General en el plazo, lugar y forma establecidos en esta ley y en sus normas de aplicación y desarrollo.",
+    "B) El ingreso de las cuotas fuera de plazo reglamentario se efectuará con arreglo al tipo de cotización vigente en la fecha en que se realice el ingreso de las mismas.",
+    "C) En caso de que la responsabilidad por la obligación de cotizar corresponda al empresario, podrá dirigirse el procedimiento recaudatorio contra el que realice la prestación de servicio.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 194,
+  question: "El artículo 136 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social dispone que: 'Estarán obligatoriamente incluidos en el campo de aplicación del Régimen General de la Seguridad Social...'",
+  answer: "A) Los trabajadores por cuenta ajena y los asimilados a los que se refiere el artículo 7.1.a) de esta ley, salvo que por razón de su actividad deban quedar comprendidos en el campo de aplicación de algún régimen especial de la Seguridad Social.",
+  options: [
+    "A) Los trabajadores por cuenta ajena y los asimilados a los que se refiere el artículo 7.1.a) de esta ley, salvo que por razón de su actividad deban quedar comprendidos en el campo de aplicación de algún régimen especial de la Seguridad Social.",
+    "B) Los trabajadores por cuenta propia y los asimilados a los que se refiere el artículo 7.1.a) de esta ley, salvo que por razón de su actividad deban quedar comprendidos en el campo de aplicación de algún régimen especial de la Seguridad Social.",
+    "C) Los trabajadores por cuenta ajena y los asimilados a los que se refiere el artículo 8.1.a) de esta ley, salvo que por razón de su actividad deban quedar comprendidos en el campo de aplicación de algún régimen general de la Seguridad Social.",
+    "D) Los trabajadores por cuenta propia y los asimilados a los que se refiere el artículo 8.1.a) de esta ley, salvo que por razón de su actividad deban quedar comprendidos en el campo de aplicación de algún régimen especial de la Seguridad Social."
+  ]
+},
+{
+  numb: 195,
+  question: "Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social no darán lugar a inclusión en el Régimen General de la Seguridad Social los siguientes trabajos:",
+  answer: "D) Todas las respuestas son correctas.",
+  options: [
+    "A) Los que se ejecuten ocasionalmente mediante los llamados servicios amistosos, benévolos o de buena vecindad.",
+    "B) Los que den lugar a la inclusión en alguno de los regímenes especiales de la Seguridad Social.",
+    "C) Los realizados por los profesores universitarios eméritos, de conformidad con lo previsto en el apartado 2 de la disposición adicional vigésima segunda de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, así como por el personal licenciado sanitario emérito nombrado al amparo de la disposición adicional cuarta de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud.",
+    "D) Todas las respuestas son correctas."
+  ]
+},
+{
+  numb: 196,
+  question: "En lo referente a la afiliación a la seguridad social, señala la respuesta correcta, según lo establecido en el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social:",
+  answer: "A) La afiliación a la Seguridad Social es obligatoria para las personas incluidas en el campo de aplicación del sistema de la Seguridad Social a efectos de las prestaciones contributivas y única para toda su vida y para todo el sistema, sin perjuicio de las altas y bajas en los distintos regímenes que lo integran, así como de las demás variaciones que puedan producirse con posterioridad a la afiliación.",
+  options: [
+    "A) La afiliación a la Seguridad Social es obligatoria para las personas incluidas en el campo de aplicación del sistema de la Seguridad Social a efectos de las prestaciones contributivas y única para toda su vida y para todo el sistema, sin perjuicio de las altas y bajas en los distintos regímenes que lo integran, así como de las demás variaciones que puedan producirse con posterioridad a la afiliación.",
+    "B) La afiliación podrá practicarse a petición de las personas y entidades obligadas a dicho acto, siempre a instancia de los interesados.",
+    "C) La afiliación podrá practicarse a petición de las personas y entidades obligadas a dicho acto, siempre de oficio por la Administración de la Seguridad Social.",
+    "D) Ninguna de las respuestas son correctas."
+  ]
+},
+{
+  numb: 197,
+  question: "Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, se consideran situaciones asimiladas a la de alta:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) La excedencia forzosa podrá ser asimilada a la situación de alta para determinadas contingencias",
+    "B) La situación legal de desempleo total durante la que el trabajador perciba prestación por dicha contingencia.",
+    "C) La situación del trabajador durante el período correspondiente a vacaciones anuales retribuidas que no hayan sido disfrutadas por el mismo con anterioridad a la finalización del contrato.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 198,
+  question: "Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, la cotización a la Seguridad Social:",
+  answer: "B) La obligación de cotizar nacerá desde el momento de iniciación de la actividad correspondiente.",
+  options: [
+    "A) Es obligatoria en el Régimen General solamente.",
+    "B) La obligación de cotizar nacerá desde el momento de iniciación de la actividad correspondiente.",
+    "C) La obligación de cotizar nacerá desde el momento de iniciación de la actividad correspondiente, excluido el período de prueba.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 199,
+  question: "En relación a las Bases y tipos de Cotización, según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social:",
+  answer: "D) Todas son correctas",
+  options: [
+    "A) Las bases y tipos de cotización a la Seguridad Social y por los conceptos que se recauden conjuntamente con las cuotas de la Seguridad Social serán los que establezca cada año la correspondiente Ley de Presupuestos Generales del Estado.",
+    "B) El tipo de cotización tendrá carácter único para todo el ámbito de protección de este Régimen General. Su establecimiento y su distribución, para determinar las aportaciones respectivas del empresario y trabajador obligados a cotizar, se efectuarán en la correspondiente Ley de Presupuestos Generales del Estado.",
+    "C) El tipo de cotización se reducirá en el porcentaje o porcentajes correspondientes a aquellas situaciones y contingencias que no queden comprendidas en la acción protectora que se determine.",
+    "D) Todas son correctas"
+  ]
+},
+{
+  numb: 200,
+  question: "Tendrán la consideración de accidente de trabajo, de conformidad con Real Decreto Legislativo 8/2015, de 30 de octubre:",
+  answer: "A) Los que sufra el trabajador al ir o al volver del lugar de trabajo.",
+  options: [
+    "A) Los que sufra el trabajador al ir o al volver del lugar de trabajo.",
+    "B) Los que sean debidos a dolo o a imprudencia temeraria del trabajador accidentado.",
+    "C) Los que sean debidos a fuerza mayor extraña al trabajo, entendiéndose por ésta la que sea de tal naturaleza que ninguna relación guarde con el trabajo que se ejecutaba al ocurrir el accidente.",
+    "D) Todas las respuestas son correctas."
   ]
 },
 ];
