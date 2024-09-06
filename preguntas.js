@@ -3269,7 +3269,7 @@ let questions = [
 {
   numb: 298,
   question: "La plataforma de teleformación Moodle, para el desarrollo del proceso de enseñanza y aprendizaje contiene herramientas de:",
-  answer: "C) Esquema Nacional de Seguridad.",
+  answer: "D) Todas son correctas.",
   options: [
     "A) Comunicación.",
     "B) Gestión de personas.",
