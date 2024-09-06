@@ -2199,4 +2199,1104 @@ let questions = [
     "D) Todas las respuestas son correctas."
   ]
 },
+{
+  numb: 201,
+  question: "La acción protectora del sistema de la Seguridad Social comprenderá, según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) La asistencia sanitaria en los casos de maternidad, de enfermedad común o profesional y de accidente, sea o no de trabajo.",
+    "B) Las prestaciones de servicios sociales que puedan establecerse en materia de formación y rehabilitación de personas con discapacidad y de asistencia a las personas mayores, así como en aquellas otras materias en que se considere conveniente.",
+    "C) Las prestaciones familiares de la Seguridad Social, en sus modalidades contributiva y no contributiva",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 202,
+  question: "Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, se entiende por enfermedad profesional:",
+  answer: "A) La contraída a consecuencia del trabajo ejecutado por cuenta ajena en las actividades que se especifiquen en el cuadro que se apruebe por las disposiciones de aplicación y desarrollo de esta ley, y que esté provocada por la acción de los elementos o sustancias que en dicho cuadro se indiquen para cada enfermedad profesional.",
+  options: [
+    "A) La contraída a consecuencia del trabajo ejecutado por cuenta ajena en las actividades que se especifiquen en el cuadro que se apruebe por las disposiciones de aplicación y desarrollo de esta ley, y que esté provocada por la acción de los elementos o sustancias que en dicho cuadro se indiquen para cada enfermedad profesional.",
+    "B) Toda lesión corporal que el trabajador sufra con ocasión o por consecuencia del trabajo que ejecute por cuenta ajena, incluidas las que sufra el trabajador al ir o al volver del trabajo.",
+    "C) Las alteraciones de la salud que no tengan la condición de accidentes de trabajo ni de enfermedades profesionales.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 203,
+  question: "Tendrán la consideración de accidentes de trabajo, según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social:",
+  answer: "D) Todas son correctas",
+  options: [
+    "A) Los que sufra el trabajador al ir o al volver del lugar de trabajo.",
+    "B) Los que sufra el trabajador con ocasión o como consecuencia del desempeño de cargos electivos de carácter sindical, así como los ocurridos al ir o al volver del lugar en que se ejerciten las funciones propias de dichos cargos.",
+    "C) Los ocurridos con ocasión o por consecuencia de las tareas que, aun siendo distintas a las de su grupo profesional, ejecute el trabajador en cumplimiento de las órdenes del empresario o espontáneamente en interés del buen funcionamiento de la empresa.",
+    "D) Todas son correctas"
+  ]
+},
+{
+  numb: 204,
+  question: "Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, el artículo 204 dispone que, en relación con la prestación económica por causa de jubilación:",
+  answer: "A) En su modalidad contributiva, será única para cada beneficiario y consistirá en una pensión vitalicia que le será reconocida, en las condiciones, cuantía y forma que reglamentariamente se determinen, cuando, alcanzada la edad establecida, cese o haya cesado en el trabajo por cuenta ajena.",
+  options: [
+    "A) En su modalidad contributiva, será única para cada beneficiario y consistirá en una pensión vitalicia que le será reconocida, en las condiciones, cuantía y forma que reglamentariamente se determinen, cuando, alcanzada la edad establecida, cese o haya cesado en el trabajo por cuenta ajena.",
+    "B) En su modalidad no contributiva, será única para cada beneficiario y consistirá en una pensión temporal que le será reconocida, en las condiciones, cuantía y forma que reglamentariamente se determinen, cuando, alcanzada la edad establecida, cese o haya cesado en el trabajo por cuenta ajena.",
+    "C) En su modalidad no contributiva, será única para cada beneficiario y consistirá en una pensión indefinida que le será reconocida, en las condiciones, cuantía y forma que reglamentariamente se determinen, cuando, alcanzada la edad establecida, cese o haya cesado en el trabajo por cuenta propia.",
+    "D) En su modalidad contributiva, será única para cada beneficiario y consistirá en una pensión temporal que le será reconocida, en las condiciones, cuantía y forma que reglamentariamente se determinen, cuando, alcanzada la edad establecida, cese o haya cesado en el trabajo por cuenta ajena."
+  ]
+},
+{
+  numb: 205,
+  question: "Un almacén es:",
+  answer: "C) Las dos definiciones son correctas.",
+  options: [
+    "A) El espacio físico donde están depositadas todas las mercancías en espera de su distribución y su utilización.",
+    "B) El espacio físico donde se almacenan todos los productos que debemos mantener en stock.",
+    "C) Las dos definiciones son correctas.",
+    "D) Todas son falsas."
+  ]
+},
+{
+  numb: 206,
+  question: "Los servicios y actividades de los hospitales se agrupan en divisiones ¿A qué división quedan adscritos los suministros según el Real Decreto 521/1987, de 15 de abril?",
+  answer: "D) División de Gestión y Servicios Generales.",
+  options: [
+    "A) Gerencia.",
+    "B) División Médica.",
+    "C) División de Enfermería.",
+    "D) División de Gestión y Servicios Generales."
+  ]
+},
+{
+  numb: 207,
+  question: "Las actividades fundamentales que integran la función de almacenes podemos considerar que son:",
+  answer: "A) Recepción, colocación, despacho, distribución y reposición.",
+  options: [
+    "A) Recepción, colocación, despacho, distribución y reposición.",
+    "B) Pedido, recepción, control de salida, compras.",
+    "C) La función de los almacenes es procurar que siempre haya existencias.",
+    "D) Pedido, recepción, compras, ventas, abonos."
+  ]
+},
+{
+  numb: 208,
+  question: "Existen varios métodos de valoración en un inventario, el método FIFO consiste en:",
+  answer: "C) El primero que entra, es el primero que sale. El material utilizado se valora a los precios antiguos y las existencias aún disponibles a los actuales o a los precios más recientes.",
+  options: [
+    "A) Última entrada, primera salida. Asigna a la unidad que sale el valor de la última que entró. La existencia que sale es la más nueva.",
+    "B) Valora las unidades que entran o salen a un precio determinado.",
+    "C) El primero que entra, es el primero que sale. El material utilizado se valora a los precios antiguos y las existencias aún disponibles a los actuales o a los precios más recientes.",
+    "D) Valora las unidades que entran o salen a un precio medio."
+  ]
+},
+{
+  numb: 209,
+  question: "Existen varios métodos de valoración en un inventario, el método LIFO consiste en:",
+  answer: "A) Última entrada, primera salida. El material utilizado se valora a los precios actuales y las existencias del almacén a los precios más antiguos.",
+  options: [
+    "A) Última entrada, primera salida. El material utilizado se valora a los precios actuales y las existencias del almacén a los precios más antiguos.",
+    "B) Valora las unidades que entran o salen a un precio determinado.",
+    "C) Primera entrada, primera salida. Asigna a la unidad que sale, el valor de la primera que entró, así la existencia que sale es la más antigua.",
+    "D) Valora las unidades que entran o salen a un precio medio."
+  ]
+},
+{
+  numb: 210,
+  question: "Existen varios métodos de valoración en un inventario, el método estándar consiste en:",
+  answer: "C) Valora las unidades que entran o salen a un precio determinado.",
+  options: [
+    "A) Última entrada, primera salida. Asigna a la unidad que sale el valor de la última que entró. La existencia que sale es la más nueva.",
+    "B) Primera entrada, primera salida. Asigna a la unidad que sale, el valor de la primera que entró, así la existencia que sale es la más antigua.",
+    "C) Valora las unidades que entran o salen a un precio determinado.",
+    "D) Valora las unidades que entran o salen a un precio medio."
+  ]
+},
+{
+  numb: 211,
+  question: "Existen varios métodos de valoración en un inventario, el método simple y ponderado consiste en:",
+  answer: "D) Valora las unidades que entran o salen a un precio medio.",
+  options: [
+    "A) Valora las unidades que entran o salen a un precio determinado.",
+    "B) Primera entrada, primera salida. Asigna a la unidad que sale, el valor de la primera que entró, así la existencia que sale es la más antigua.",
+    "C) Última entrada, primera salida. Asigna a la unidad que sale el valor de la última que entró. La existencia que sale es la más nueva.",
+    "D) Valora las unidades que entran o salen a un precio medio."
+  ]
+},
+{
+  numb: 212,
+  question: "La distribución de los pedidos desde los distintos almacenes a los servicios del hospital recibe el nombre de:",
+  answer: "A) Suministros internos.",
+  options: [
+    "A) Suministros internos.",
+    "B) Suministros exteriores.",
+    "C) Suministros de proveedores.",
+    "D) Suministros externos."
+  ]
+},
+{
+  numb: 213,
+  question: "¿Qué es el índice de rotación?",
+  answer: "A) El tiempo transcurrido desde que un artículo entra en el almacén hasta que se produce su salida, tiempo que en todo caso, no puede exceder del período de caducidad de dicho artículo.",
+  options: [
+    "A) El tiempo transcurrido desde que un artículo entra en el almacén hasta que se produce su salida, tiempo que en todo caso, no puede exceder del período de caducidad de dicho artículo.",
+    "B) El modo de girar el producto para su correcta colocación en el almacén.",
+    "C) No existe tal concepto en la gestión del almacén.",
+    "D) El tiempo transcurrido desde que un artículo entra en el almacén hasta que se produce su salida, tiempo que puede exceder del período de caducidad de dicho artículo."
+  ]
+},
+{
+  numb: 214,
+  question: "Puede ser considerada quizás la labor más importante de todo el sistema de suministros:",
+  answer: "D) La gestión de stock.",
+  options: [
+    "A) El control de calidad.",
+    "B) La entrega a los servicios.",
+    "C) La revisión de la mercancía.",
+    "D) La gestión de stock."
+  ]
+},
+{
+  numb: 215,
+  question: "¿Cuál de los siguientes no se considera material sanitario?:",
+  answer: "A) Material y productos de hostelería.",
+  options: [
+    "A) Material y productos de hostelería.",
+    "B) Apósitos.",
+    "C) Cemento óseo.",
+    "D) Material de radiodiagnóstico."
+  ]
+},
+{
+  numb: 216,
+  question: "El Stock de seguridad:",
+  answer: "B) Es el volumen de stock fijado antes de que el artículo sea considerado bajo mínimos. Su actualización dependerá del coeficiente de seguridad y de si el artículo está considerado rotacional.",
+  options: [
+    "A) Es la cantidad de unidades de artículos con los que se inicia el período mensual.",
+    "B) Es el volumen de stock fijado antes de que el artículo sea considerado bajo mínimos. Su actualización dependerá del coeficiente de seguridad y de si el artículo está considerado rotacional.",
+    "C) Impide que un artículo tenga menos de 10 unidades en el almacén.",
+    "D) Determina, en unidades, el número de éstas a partir de la cual debe de realizarse un pedido."
+  ]
+},
+{
+  numb: 217,
+  question: "¿Cuál de las siguientes no es una de las fases de la tarea de suministro?",
+  answer: "B) Mapa del hospital.",
+  options: [
+    "A) Petición de material.",
+    "B) Mapa del hospital.",
+    "C) Gestión de Stock.",
+    "D) Control económico."
+  ]
+},
+{
+  numb: 218,
+  question: "Señale la respuesta correcta en relación a la Ley de Contratos del Sector Público:",
+  answer: "C) Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
+  options: [
+    "A) Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes inmuebles.",
+    "B) Son contratos de suministro los que tienen por objeto la enajenación o el arrendamiento financiero de productos o bienes muebles.",
+    "C) Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 219,
+  question: "Los contratos 'cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario', se califican como:",
+  answer: "B) Contrato de servicios.",
+  options: [
+    "A) Contrato de concesión de servicios.",
+    "B) Contrato de servicios.",
+    "C) Contrato mixto.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 220,
+  question: "Según el artículo 13.1 de la Ley de Contratos del Sector Público son contratos de obras aquellos que tienen por objeto:",
+  answer: "A) La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I o la realización, por cualquier medio, de una obra que cumpla los requisitos fijados por la entidad del sector público contratante que ejerza una influencia decisiva en el tipo o el proyecto de la obra.",
+  options: [
+    "A) La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I o la realización, por cualquier medio, de una obra que cumpla los requisitos fijados por la entidad del sector público contratante que ejerza una influencia decisiva en el tipo o el proyecto de la obra.",
+    "B) Aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia, y cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio.",
+    "C) Únicamente la ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 221,
+  question: "Los contratos del sector público vienen regulados por:",
+  answer: "B) Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
+  options: [
+    "A) Real Decreto Legislativo 3/2011, de 14 de noviembre, por el cual se aprueba el Texto Refundido de la Ley de Contratos del Sector Público.",
+    "B) Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
+    "C) Ley 9/2017, de 8 de diciembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
+    "D) Real Decreto Legislativo 3/2011, de 14 de diciembre, por el cual se aprueba el Texto Refundido de la Ley de Contratos del Sector Público."
+  ]
+},
+{
+  numb: 222,
+  question: "El objeto de la Ley de Contratos del Sector Público es:",
+  answer: "C) Regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores; y de asegurar, en conexión con el objetivo de estabilidad presupuestaria y control del gasto, y el principio de integridad, una eficiente utilización de los fondos destinados a la realización de obras, la adquisición de bienes y la contratación de servicios mediante la exigencia de la definición previa de las necesidades a satisfacer, la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.",
+  options: [
+    "A) Regula la subcontratación en el sector de la construcción y tiene por objeto mejorar las condiciones de trabajo del sector, en general, y las condiciones de seguridad y salud de los trabajadores del mismo, en particular.",
+    "B) Regular la contratación del sector privado, a fin de garantizar que la misma se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores.",
+    "C) Regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores; y de asegurar, en conexión con el objetivo de estabilidad presupuestaria y control del gasto, y el principio de integridad, una eficiente utilización de los fondos destinados a la realización de obras, la adquisición de bienes y la contratación de servicios mediante la exigencia de la definición previa de las necesidades a satisfacer, la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 223,
+  question: "A efectos de la Ley de Contratos del Sector Público, se consideran poderes adjudicadores:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Las Administraciones Públicas.",
+    "B) Las fundaciones públicas.",
+    "C) Las Mutuas colaboradoras con la Seguridad Social.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 224,
+  question: "Los Organismos Autónomos, las Universidades Públicas y las autoridades administrativas independientes a efectos de la Ley de Contratos del Sector Público se consideran que:",
+  answer: "B) Forman parte del Sector Público.",
+  options: [
+    "A) No quedan sometidos a la actual Ley de Contratos del Sector Público.",
+    "B) Forman parte del Sector Público.",
+    "C) No forman parte del Sector Público.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 225,
+  question: "Son contratos regulados a la Ley de Contratos del Sector Público:",
+  answer: "C) Los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios que celebren las entidades pertenecientes al sector público.",
+  options: [
+    "A) Los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios que celebren las entidades pertenecientes al sector privado.",
+    "B) Los contratos de obras, concesión de obras públicas, gestión de servicios públicos, suministro, servicios y de colaboración entre el sector público y el sector privado que celebren los entes, organismos y entidades pertenecientes al sector público.",
+    "C) Los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios que celebren las entidades pertenecientes al sector público.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 226,
+  question: "En relación a los contratos mixtos regulados en la Ley de Contratos del Sector Público:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Se entenderá por contrato mixto aquel que contenga prestaciones correspondientes a otro u otros de distinta clase.",
+    "B) Cuando un contrato mixto comprenda prestaciones propias de dos o más contratos de obras, suministros o servicios se atenderá al carácter de la prestación principal.",
+    "C) En los casos en que un elemento del contrato mixto sea una obra y esta supere los 50.000 euros, deberá elaborarse un proyecto y tramitarse de conformidad con los artículos 231 y siguientes de dicha ley.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 227,
+  question: "Según la Ley de Contratos del Sector Público, tendrán carácter administrativo los contratos siguientes, siempre que se celebren por una Administración Pública:",
+  answer: "A) Los contratos de obra, concesión de obra, concesión de servicios.",
+  options: [
+    "A) Los contratos de obra, concesión de obra, concesión de servicios.",
+    "B) Los celebrados por entidades del sector público que siendo poder adjudicador no reúnan la condición de Administraciones Públicas.",
+    "C) Los celebrados por entidades del sector público que no reúnan la condición de poder adjudicador.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 228,
+  question: "Según la Ley de Contratos del Sector Público, los contratos administrativos se regirán:",
+  answer: "B) En cuanto a su preparación, adjudicación, efectos, modificación y extinción, por esta Ley y sus disposiciones de desarrollo; supletoriamente se aplicarán las restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado.",
+  options: [
+    "A) En cuanto a su preparación, adjudicación, efectos, modificación y extinción, por esta Ley y sus disposiciones de desarrollo; supletoriamente se aplicarán las restantes normas de derecho administrativo y, en su defecto, las normas de derecho penal.",
+    "B) En cuanto a su preparación, adjudicación, efectos, modificación y extinción, por esta Ley y sus disposiciones de desarrollo; supletoriamente se aplicarán las restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado.",
+    "C) En cuanto a su preparación, adjudicación, efectos, modificación y extinción, por las normas de derecho administrativo; supletoriamente se aplicarán esta ley y sus disposiciones de desarrollo y, en su defecto, las normas de derecho privado y penal.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 229,
+  question: "En relación a la Ley de Contratos del Sector Público, tendrán la consideración de contratos privados:",
+  answer: "A) Los celebrados por entidades del sector público que siendo poder adjudicador no reúnan la condición de Administraciones Públicas.",
+  options: [
+    "A) Los celebrados por entidades del sector público que siendo poder adjudicador no reúnan la condición de Administraciones Públicas.",
+    "B) Los contratos de obra, concesión de obra, concesión de servicios, que se celebren por una Administración Pública.",
+    "C) Los celebrados por entidades del sector privado que no reúnan la condición de poder adjudicador y Administración Pública.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 230,
+  question: "Según el artículo 26.1 de la Ley de Contratos del Sector Público se considerarán contratos privados:",
+  answer: "D) Todas las respuestas son correctas.",
+  options: [
+    "A) Los que celebren las Administraciones Públicas cuyo objeto sea distinto de los referidos en las letras a) y b) del apartado primero del artículo anterior.",
+    "B) Los celebrados por entidades del sector público que siendo poder adjudicador no reúnan la condición de Administraciones Públicas.",
+    "C) Los celebrados por entidades del sector público que no reúnan la condición de poder adjudicador.",
+    "D) Todas las respuestas son correctas."
+  ]
+},
+{
+  numb: 231,
+  question: "En relación a la Ley de Contratos del Sector Público, serán competencia del orden jurisdiccional contencioso-administrativo las siguientes cuestiones:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Las relativas a la preparación, adjudicación, efectos, modificación y extinción de los contratos administrativos.",
+    "B) Las que se susciten en relación con la preparación y adjudicación de los contratos privados de las Administraciones Públicas.",
+    "C) Los recursos interpuestos contra las resoluciones que se dicten por los órganos administrativos de resolución de los recursos previstos en el artículo 44 de esta Ley, así como en el artículo 321.5.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 232,
+  question: "Son Retribuciones Básicas:",
+  answer: "A) Sueldo y trienios.",
+  options: [
+    "A) Sueldo y trienios.",
+    "B) Complemento de destino y sueldo.",
+    "C) Trienios y complemento de productividad.",
+    "D) Sueldo y complemento específico."
+  ]
+},
+{
+  numb: 233,
+  question: "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, el importe de los trienios:",
+  answer: "C) El importe se fija en la Ley de Presupuestos Generales del Estado.",
+  options: [
+    "A) Se fija en el Convenio Colectivo Sectorial de la Salud de la Comunidad Autónoma de Canarias, con carácter anual.",
+    "B) La Secretaría General Técnica fija los importes.",
+    "C) El importe se fija en la Ley de Presupuestos Generales del Estado.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 234,
+  question: "En el Servicio Canario de la Salud, según la Instrucción de retribuciones del Servicio Canario de la Salud, el concepto retributivo de Atención Continuada, modalidad 'B', es una retribución:",
+  answer: "B) Complementaria.",
+  options: [
+    "A) Básica.",
+    "B) Complementaria.",
+    "C) Especial.",
+    "D) Extraordinaria."
+  ]
+},
+{
+  numb: 235,
+  question: "El complemento de destino:",
+  answer: "D) Retribuye el nivel del puesto que se desempeña.",
+  options: [
+    "A) Retribuye la peligrosidad o penosidad.",
+    "B) Retribuye la especial dificultad técnica.",
+    "C) No lo pueden cobrar los funcionarios con menos de tres años de servicio.",
+    "D) Retribuye el nivel del puesto que se desempeña."
+  ]
+},
+{
+  numb: 236,
+  question: "En la nómina deben figurar los siguientes datos:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Datos de identificación de la empresa y del trabajador.",
+    "B) Periodo de liquidación.",
+    "C) Devengos y deducciones.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 237,
+  question: "Según la normativa de retribuciones vigente en el Servicio Canario de la Salud, ¿cuál de los siguientes conceptos de nómina no es una retribución complementaria?",
+  answer: "C) Trienios.",
+  options: [
+    "A) Complemento de destino.",
+    "B) Complemento específico.",
+    "C) Trienios.",
+    "D) Productividad."
+  ]
+},
+{
+  numb: 238,
+  question: "Según la Instrucción de retribuciones anual del SCS el complemento de productividad factor variable retribuye:",
+  answer: "D) Retribuye el especial rendimiento, el interés o la iniciativa del titular del puesto de trabajo.",
+  options: [
+    "A) La peligrosidad o penosidad.",
+    "B) La especial dificultad técnica.",
+    "C) El especial rendimiento, la peligrosidad y la especial dificultad técnica",
+    "D) Retribuye el especial rendimiento, el interés o la iniciativa del titular del puesto de trabajo."
+  ]
+},
+{
+  numb: 239,
+  question: "La indemnización por residencia:",
+  answer: "A) Se abonará en doce mensualidades.",
+  options: [
+    "A) Se abonará en doce mensualidades.",
+    "B) Se abonará en catorce mensualidades.",
+    "C) Se abonará en doce mensualidades y en un porcentaje en ambas pagas extraordinarias.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 240,
+  question: "Entre las deducciones que pueden figurar en la nómina se encuentran:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Cotizaciones a la Seguridad Social por contingencias comunes.",
+    "B) Retenciones a cuenta del IRPF.",
+    "C) Formación profesional.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 241,
+  question: "La norma que regula la confección de nóminas de retribuciones de los funcionarios de la Comunidad Autónoma de Canarias es:",
+  answer: "D) Orden de la Consejería de Hacienda, de 21 de noviembre de 1984.",
+  options: [
+    "A) Orden de la Consejería de Hacienda, de 21 de octubre de 1985.",
+    "B) Orden de la Consejería de Hacienda, de 21 de noviembre de 1985.",
+    "C) Orden de la Consejería de Hacienda, de 21 de octubre de 1984.",
+    "D) Orden de la Consejería de Hacienda, de 21 de noviembre de 1984."
+  ]
+},
+{
+  numb: 242,
+  question: "La aplicación de la deducción al Fondo de Garantía Salarial, se aplicará a los funcionarios de carrera:",
+  answer: "D) Los funcionarios de carrera no cotizan en este concepto.",
+  options: [
+    "A) En una cuantía fija.",
+    "B) En relación al grupo retributivo.",
+    "C) En relación a la antigüedad desde la fecha de toma de posesión.",
+    "D) Los funcionarios de carrera no cotizan en este concepto."
+  ]
+},
+{
+  numb: 243,
+  question: "La confección de las nóminas de retribuciones de los funcionarios dependientes de cada uno de los Órganos Superiores de la Comunidad Autónoma de Canarias, será realizada por:",
+  answer: "A) Los Habilitados - Pagadores nombrados por cada Consejería, uno por cada Dirección Territorial o Provincial.",
+  options: [
+    "A) Los Habilitados - Pagadores nombrados por cada Consejería, uno por cada Dirección Territorial o Provincial.",
+    "B) La Dirección de Recursos Humanos.",
+    "C) Los Habilitados - Pagadores nombrados por cada Consejería, uno por cada isla.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 244,
+  question: "Según lo establecido en la Instrucción de retribuciones de la Dirección del SCS las pagas extraordinarias serán:",
+  answer: "C) Dos al año y se devengarán en junio y diciembre.",
+  options: [
+    "A) Tres al año y se devengarán en marzo, junio y diciembre.",
+    "B) Tres al año y se devengarán en junio, septiembre y diciembre.",
+    "C) Dos al año y se devengarán en junio y diciembre.",
+    "D) Dos al año y se devengarán en marzo y diciembre."
+  ]
+},
+{
+  numb: 245,
+  question: "El Decreto que regula la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos en la Administración Pública de la Comunidad Autónoma de Canarias es:",
+  answer: "B) Decreto 1/2015, de 22 de enero.",
+  options: [
+    "A) Decreto 1/2014, de 15 de enero.",
+    "B) Decreto 1/2015, de 22 de enero.",
+    "C) Decreto 1/2015, de 15 de enero.",
+    "D) Decreto 1/2014, de 22 de enero."
+  ]
+},
+{
+  numb: 246,
+  question: "A los efectos del Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, 'La reproducción de un documento, ya sea original o copia que, previo cotejo, acredita su presentación en los registros de los órganos y entidades incluidos en el ámbito de aplicación de este Decreto' es la definición de la:",
+  answer: "B) Copia sellada.",
+  options: [
+    "A) Copia única.",
+    "B) Copia sellada.",
+    "C) Copia compulsada.",
+    "D) Copia auténtica."
+  ]
+},
+{
+  numb: 247,
+  question: "¿Cuál de las siguientes definiciones no se contempla en el Decreto regulador de la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos en la Administración Pública de la Comunidad Autónoma de Canarias?",
+  answer: "C) Cotejo sellado.",
+  options: [
+    "A) Sellado simple.",
+    "B) Copia sellada.",
+    "C) Cotejo sellado.",
+    "D) Cotejo."
+  ]
+},
+{
+  numb: 248,
+  question: "La copia auténtica se define, según el Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, como:",
+  answer: "C) Reproducción exacta de un documento que acredita su autenticidad no solo desde la perspectiva de la identidad de la copia con el original sino que, además, tiene efectos certificantes en cuanto garantiza la autenticidad de los datos contenidos en este último, y tiene su misma validez y eficacia.",
+  options: [
+    "A) Reproducción de un documento que acredita su autenticidad solo desde la perspectiva de la identidad de la copia con el original y que, además, tiene efectos certificantes en cuanto garantiza la autenticidad de los datos contenidos en este último, y tiene su misma validez y eficacia.",
+    "B) Reproducción de un documento que acredita su autenticidad no solo desde la perspectiva de la identidad de la copia con el original sino que, además, tiene efectos certificantes en cuanto garantiza la autenticidad de los datos contenidos en este último, y tiene su misma validez y eficacia.",
+    "C) Reproducción exacta de un documento que acredita su autenticidad no solo desde la perspectiva de la identidad de la copia con el original sino que, además, tiene efectos certificantes en cuanto garantiza la autenticidad de los datos contenidos en este último, y tiene su misma validez y eficacia.",
+    "D) Reproducción exacta de un documento que acredita su autenticidad solo desde la perspectiva de la identidad de la copia con el original y que, además, tiene efectos certificantes en cuanto garantiza la autenticidad de los datos contenidos en este último, y tiene su misma validez y eficacia."
+  ]
+},
+{
+  numb: 249,
+  question: "Según el Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, el régimen de uso de los certificados y copias será el que exija:",
+  answer: "A) La normativa sectorial en cada caso.",
+  options: [
+    "A) La normativa sectorial en cada caso.",
+    "B) La normativa estatal en cada caso.",
+    "C) La normativa autonómica en cada caso.",
+    "D) La normativa europea en cada caso."
+  ]
+},
+{
+  numb: 250,
+  question: "Según el Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, se entiende por certificación el:",
+  answer: "A) Acto administrativo de declaración formal por el que un órgano administrativo o personal funcionario constata los extremos, datos y contenidos de los documentos obrantes en un expediente administrativo o, en su caso, de los correspondientes datos inscritos en un registro público.",
+  options: [
+    "A) Acto administrativo de declaración formal por el que un órgano administrativo o personal funcionario constata los extremos, datos y contenidos de los documentos obrantes en un expediente administrativo o, en su caso, de los correspondientes datos inscritos en un registro público.",
+    "B) Documento de constatación externa en el que se materializa el acto administrativo de certificación.",
+    "C) Acto de declaración formal por el que un órgano administrativo o personal funcionario constata los extremos, datos y contenidos de los documentos obrantes en un expediente administrativo o, en su caso, de los correspondientes datos inscritos en un registro público.",
+    "D) Acto administrativo de declaración formal por el que un órgano administrativo o personal funcionario constata los extremos, datos y contenidos de los documentos no obrantes en un expediente administrativo o, en su caso, de los correspondientes datos inscritos en un registro público."
+  ]
+},
+{
+  numb: 251,
+  question: "A los efectos del Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, 'Documento de constatación externa en el que se materializa el acto administrativo de certificación', es la definición de:",
+  answer: "B) Certificado.",
+  options: [
+    "A) Certificación.",
+    "B) Certificado.",
+    "C) Compulsa.",
+    "D) Copia auténtica."
+  ]
+},
+{
+  numb: 252,
+  question: "A los efectos del Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, la 'acción de comparar una copia de un documento con otro, con el objeto de comprobar que son idénticos', es la definición de:",
+  answer: "C) Cotejo.",
+  options: [
+    "A) Comparación.",
+    "B) Compulsa.",
+    "C) Cotejo.",
+    "D) Certificación."
+  ]
+},
+{
+  numb: 253,
+  question: "El ámbito de aplicación del Decreto canario que regula la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos es:",
+  answer: "C) La Administración Pública de la Comunidad Autónoma de Canarias, sus organismos autónomos y entidades de derecho público que de ella dependan.",
+  options: [
+    "A) La Administración Pública de la Comunidad Autónoma de Canarias.",
+    "B) La Administración Pública de la Comunidad Autónoma de Canarias y sus organismos autónomos.",
+    "C) La Administración Pública de la Comunidad Autónoma de Canarias, sus organismos autónomos y entidades de derecho público que de ella dependan.",
+    "D) La Administración Pública de la Comunidad Autónoma de Canarias, sus organismos autónomos y entidades de derecho público y privado que de ella dependan."
+  ]
+},
+{
+  numb: 254,
+  question: "La 'reproducción de un documento público o privado sobre el que el empleado público ante el que se presenta hace constar, previo cotejo, su coincidencia exacta con el original del que es copia' es un/a:",
+  answer: "A) Copia compulsada.",
+  options: [
+    "A) Copia compulsada.",
+    "B) Copia sellada.",
+    "C) Copia auténtica.",
+    "D) Sellado simple."
+  ]
+},
+{
+  numb: 255,
+  question: "El Decreto canario regulador de la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos establece que serán competentes para emitir los actos de certificación, señale la respuesta incorrecta:",
+  answer: "A) Las personas titulares de los servicios, secciones y negociados responsables de los registros privados, respecto de los datos inscritos en los mismos.",
+  options: [
+    "A) Las personas titulares de los servicios, secciones y negociados responsables de los registros privados, respecto de los datos inscritos en los mismos.",
+    "B) Las personas titulares de los servicios, secciones y negociados responsables de los registros públicos, respecto de los datos inscritos en los mismos.",
+    "C) Las personas titulares de órganos administrativos y otro personal funcionario a los que expresamente se les atribuya esta función por el ordenamiento jurídico.",
+    "D) El personal funcionario responsable de las unidades administrativas de información al ciudadano, respecto de los servicios y procedimientos que se presten o se gestionen en dichas unidades."
+  ]
+},
+{
+  numb: 256,
+  question: "El Decreto canario regulador de la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos establece que serán competentes para emitir los actos de certificación, señale la respuesta incorrecta:",
+  answer: "C) El personal funcionario responsable de las unidades administrativas de información al ciudadano, respecto de los servicios y procedimientos que se presten o se gestionen en dichas unidades.",
+  options: [
+    "A) Las unidades administrativas de información al ciudadano, respecto de los servicios y procedimientos que se presten o se gestionen en dichas unidades, con una valoración del emisor de los hechos certificados.",
+    "B) Los órganos administrativos, en el caso de las actuaciones no administrativas automatizadas de su competencia, de conformidad con lo establecido en su normativa reguladora.",
+    "C) El personal funcionario responsable de las unidades administrativas de información al ciudadano, respecto de los servicios y procedimientos que se presten o se gestionen en dichas unidades.",
+    "D) Las personas titulares de los servicios, secciones y negociados responsables de los registros privados, respecto de los datos inscritos en los mismos."
+  ]
+},
+{
+  numb: 257,
+  question: "El artículo 2 del Decreto regulador de la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos en la Administración Pública de la Comunidad Autónoma de Canarias contiene las siguientes definiciones:",
+  answer: "A) Copia auténtica, copia sellada, sellado simple, copia compulsada, compulsa, cotejo, certificado y certificación.",
+  options: [
+    "A) Copia auténtica, copia sellada, sellado simple, copia compulsada, compulsa, cotejo, certificado y certificación.",
+    "B) Copia auténtica, copia sellada, sellado simple, copia simple, compulsa, cotejo, certificado y certificación.",
+    "C) Copia auténtica, copia sellada, sellado simple, copia compulsada, cotejo, certificado y certificación autenticada.",
+    "D) Copia auténtica, copia sellada, copia original, sellado simple, copia compulsada, compulsa, cotejo, certificado y certificación."
+  ]
+},
+{
+  numb: 258,
+  question: "La norma que regula en el ámbito de la Comunidad Autónoma de Canarias, el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario es el:",
+  answer: "C) Decreto 116/2006, de 1 de agosto.",
+  options: [
+    "A) Decreto 126/2006, de 1 de agosto.",
+    "B) Real Decreto 116/2006, de 1 de agosto.",
+    "C) Decreto 116/2006, de 1 de agosto.",
+    "D) Real Decreto 126/2006, de 1 de agosto"
+  ]
+},
+{
+  numb: 259,
+  question: "El Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario tiene por objeto:",
+  answer: "A) Listas de espera quirúrgica y listas de espera de consulta especializada y pruebas diagnósticas/terapéuticas.",
+  options: [
+    "A) Listas de espera quirúrgica y listas de espera de consulta especializada y pruebas diagnósticas/terapéuticas.",
+    "B) Sólo la gestión de listas de espera quirúrgica.",
+    "C) Sólo la gestión de listas de espera de consulta especializada y pruebas diagnósticas/ terapéuticas.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 260,
+  question: "La finalidad del Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario es:",
+  answer: "A) La reducción de las listas de espera.",
+  options: [
+    "A) La reducción de las listas de espera.",
+    "B) El incremento de las listas de espera.",
+    "C) Selección de personal estatutario y provisión de plazas básicas y puestos de trabajo en los órganos de prestación de servicios sanitarios del Servicio Canario de la Salud.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 261,
+  question: "El ámbito de aplicación del Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario es:",
+  answer: "A) Todos los centros y servicios de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud y a los centros y servicios concertados.",
+  options: [
+    "A) Todos los centros y servicios de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud y a los centros y servicios concertados.",
+    "B) Todos los centros y servicios de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud.",
+    "C) Todos los centros y servicios de la Red Hospitalaria de Utilización Pública del Sistema Nacional de Salud y a los centros y servicios concertados.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 262,
+  question: "Según el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, señale la correcta:",
+  answer: "A) El desarrollo e implantación de las medidas para la reducción de las listas de espera establecidas en el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, corresponde a la Dirección General competente en materia de programas asistenciales del Servicio Canario de Salud.",
+  options: [
+    "A) El desarrollo e implantación de las medidas para la reducción de las listas de espera establecidas en el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, corresponde a la Dirección General competente en materia de programas asistenciales del Servicio Canario de Salud.",
+    "B) El desarrollo e implantación de las medidas para la reducción de las listas de espera establecidas en el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, corresponde a la Dirección General de Salud Pública del Servicio Canario de Salud.",
+    "C) El desarrollo e implantación de las medidas para la reducción de las listas de espera establecidas en el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, corresponde a la Dirección General de Farmacia del Servicio Canario de Salud.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 263,
+  question: "Según el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, señale la correcta:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Establecer y coordinar los flujos de pacientes con el fin de garantizar el cumplimiento del objetivo de reducción de las listas de espera.",
+    "B) Gestionar el sistema de información de listas de espera quirúrgica, de consulta especializada y pruebas diagnósticas/terapéuticas, manteniéndolo permanentemente actualizado.",
+    "C) Proponer a la Dirección del Servicio Canario de la Salud los criterios de inclusión en las listas de espera, de conformidad con lo establecido en la normativa básica de aplicación.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 264,
+  question: "El órgano encargado del seguimiento y evaluación de las medidas adoptadas para la reducción de las listas de espera contempladas en el Decreto que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario de Canarias es:",
+  answer: "A) La Dirección del Servicio Canario de la Salud.",
+  options: [
+    "A) La Dirección del Servicio Canario de la Salud.",
+    "B) La Dirección General de Recursos Humanos.",
+    "C) La Consejera de Sanidad.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 265,
+  question: "En relación al cómputo del tiempo máximo establecido en el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, señale la correcta:",
+  answer: "C) El inicio del cómputo del plazo máximo de permanencia en la lista de espera en consulta especializada y pruebas diagnósticas/terapéuticas se efectuará a partir del día siguiente a la fecha de indicación de la consulta especializada o prueba diagnóstica/terapéutica por el médico de la red pública, teniendo documentada tal petición.",
+  options: [
+    "A) El inicio del cómputo del plazo máximo de permanencia en la lista de espera en consulta especializada y pruebas diagnósticas/terapéuticas se efectuará a partir del mismo día de indicación de la consulta especializada o prueba diagnóstica/terapéutica por el médico de la red pública, teniendo en cuenta tal petición.",
+    "B) El inicio del cómputo del plazo mínimo de permanencia en la lista de espera en consulta especializada y pruebas diagnósticas/terapéuticas se efectuará a partir del día siguiente a la fecha de indicación de la consulta especializada o prueba diagnóstica/terapéutica por el médico de la red pública, teniendo en cuenta tal petición.",
+    "C) El inicio del cómputo del plazo máximo de permanencia en la lista de espera en consulta especializada y pruebas diagnósticas/terapéuticas se efectuará a partir del día siguiente a la fecha de indicación de la consulta especializada o prueba diagnóstica/terapéutica por el médico de la red pública, teniendo documentada tal petición.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 266,
+  question: "Según establece el Decreto canario por el que se regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, el tiempo máximo de permanencia en lista de espera se interrumpirá cuando concurra alguno de los siguientes supuestos:",
+  answer: "A) Causas clínicas valoradas por el facultativo responsable que aconsejen retrasar la intervención, la realización de la consulta o la práctica de la prueba y durante el tiempo que se determine y sea necesario para su desaparición.",
+  options: [
+    "A) Causas clínicas valoradas por el facultativo responsable que aconsejen retrasar la intervención, la realización de la consulta o la práctica de la prueba y durante el tiempo que se determine y sea necesario para su desaparición.",
+    "B) Mutuo acuerdo entre las partes.",
+    "C) Matrimonio, veinte días naturales.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 267,
+  question: "La Consejería competente en materia de sanidad, teniendo en cuenta las previsiones reguladas en la normativa básica, proporcionará la siguiente información general sobre las listas de espera:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Estado de situación de las listas de espera en la Comunidad Autónoma de Canarias.",
+    "B) Tiempos máximos de espera en cada una de las listas.",
+    "C) La información general estará disponible en la página web de la Consejería.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 268,
+  question: "En relación a la información personalizada regulada en el artículo 17 del Decreto canario por el que se regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, el paciente, su representante legal o persona debidamente autorizada, recibirá el correspondiente documento acreditativo que deberá contener como mínimo, los siguientes datos:",
+  answer: "D) Todas son ciertas.",
+  options: [
+    "A) La fecha y motivo de la inclusión, así como la fecha prevista en que se realizará la intervención quirúrgica, o la fecha y hora de la primera consulta especializada o la primera prueba diagnóstica/terapéutica. En el supuesto de que estas últimas no puedan indicarse en ese momento, se dejará constancia del plazo en el que han de ser notificadas.",
+    "B) El procedimiento para obtener información sobre su situación en la lista de espera quirúrgica, primera consulta especializada o primeras pruebas diagnósticas/terapéuticas.",
+    "C) El procedimiento para ejercitar su derecho a la intervención en el plazo de demora máximo comprometido y, eventualmente, manifestar cualquier queja al respecto.",
+    "D) Todas son ciertas."
+  ]
+},
+{
+  numb: 269,
+  question: "En relación al Decreto canario por el que se regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, señale la respuesta correcta:",
+  answer: "C) Transcurrido el tiempo máximo de programación sin que el centro o servicio sanitario hubiera fijado la fecha de la cita correspondiente, se podrá derivar al paciente a otro centro o servicio de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud o, en su caso, a un centro o servicio concertado.",
+  options: [
+    "A) Transcurrido el tiempo máximo de programación sin que el centro o servicio sanitario hubiera fijado la fecha de la cita correspondiente, no se podrá derivar al paciente a otro centro o servicio de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud o, en su caso, a un centro o servicio concertado.",
+    "B) Transcurrido el tiempo máximo de programación sin que el centro o servicio sanitario hubiera fijado la fecha de la cita correspondiente, se podrá derivar al paciente a otro centro o servicio de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud; pero no a un centro o servicio concertado.",
+    "C) Transcurrido el tiempo máximo de programación sin que el centro o servicio sanitario hubiera fijado la fecha de la cita correspondiente, se podrá derivar al paciente a otro centro o servicio de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud o, en su caso, a un centro o servicio concertado.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 270,
+  question: "Según se establece en el Decreto canario que regula las listas de espera en el ámbito sanitario, entre las causas para la interrupción de plazo del tiempo máximo de permanencia en lista de espera se encuentra:",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Nacimiento o adopción de un hijo o nieto y durante 4 días naturales.",
+    "B) Fallecimiento o enfermedad grave de un familiar hasta el cuarto grado de consanguinidad o afinidad, cuatro días naturales.",
+    "C) Cumplimiento de un deber inexcusable de carácter personal y durante el tiempo estrictamente necesario.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 271,
+  question: "La aplicación del Decreto que regula las listas de espera en la Comunidad Autónoma de Canarias afectará a todos los pacientes con derecho a la asistencia sanitaria pública en el Sistema Canario de la Salud que se encuentren en alguna de las situaciones siguientes:",
+  answer: "A) Pacientes en espera para ser atendidos en primeras consultas de asistencia especializada o para la realización de pruebas diagnósticas/terapéuticas en atención hospitalaria solicitadas por un médico de la red pública, teniendo documentada tal petición.",
+  options: [
+    "A) Pacientes en espera para ser atendidos en primeras consultas de asistencia especializada o para la realización de pruebas diagnósticas/terapéuticas en atención hospitalaria solicitadas por un médico de la red pública, teniendo documentada tal petición.",
+    "B) Pacientes en espera para ser atendidos en primeras consultas de atención primaria, teniendo documentada tal petición.",
+    "C) Pacientes en espera para ser atendidos en primeras consultas de asistencia especializada o para la realización de pruebas diagnósticas/terapéuticas en atención hospitalaria solicitadas por un médico de la red privada, teniendo documentada tal petición.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 272,
+  question: "Si desea imprimir páginas salteadas desde un procesador de texto:",
+  answer: "B) Debe poner el número de las páginas separadas por una coma.",
+  options: [
+    "A) Ninguna de las respuestas es correcta.",
+    "B) Debe poner el número de las páginas separadas por una coma.",
+    "C) Debe poner el número de las páginas separadas por un asterisco.",
+    "D) Debe poner el número de las páginas separadas por un guión."
+  ]
+},
+{
+  numb: 273,
+  question: "Señale cuál de las siguientes combinaciones de teclas (método abreviado) permite cortar un texto seleccionado:",
+  answer: "D) CTRL+ X",
+  options: [
+    "A) CTRL+ Z.",
+    "B) CTRL+ V.",
+    "C) MAYÚS(Shift)+F3.",
+    "D) CTRL+ X"
+  ]
+},
+{
+  numb: 274,
+  question: "En un Procesador de texto, pulsando las teclas CTRL + AA (dos veces A) se activa la opción",
+  answer: "D) CTRL+ X",
+  options: [
+    "A) Seleccionar todo.",
+    "B) Deshacer.",
+    "C) Buscar y reemplazar la A por la A.",
+    "D) Ninguna de las respuestas es correcta."
+  ]
+},
+{
+  numb: 275,
+  question: "En un Sistema Gestor de Base de Datos, ¿a qué denominamos clave primaria?:",
+  answer: "C) Uno o más campos cuyo valor identifica de manera exclusiva cada registro de una tabla.",
+  options: [
+    "A) Clave que se usa en una tabla secundaria y que coincide con la de una tabla primaria relacionada.",
+    "B) Campo que puede tener valores duplicados.",
+    "C) Uno o más campos cuyo valor identifica de manera exclusiva cada registro de una tabla.",
+    "D) Un campo que puede permitir valores nulos."
+  ]
+},
+{
+  numb: 276,
+  question: "En el mercado hay varios sistemas gestores de bases de datos, ¿cuál es el más extendido en la actualidad y que permite trabajar con tablas?:",
+  answer: "A) Modelo relacional.",
+  options: [
+    "A) Modelo relacional.",
+    "B) Modelo jerárquico.",
+    "C) Modelo de red.",
+    "D) Modelo de árbol."
+  ]
+},
+{
+  numb: 277,
+  question: "Podríamos definir la tabla de una base de datos relacional como:",
+  answer: "A) Una colección de datos organizados en columnas (campos) y filas (registros).",
+  options: [
+    "A) Una colección de datos organizados en columnas (campos) y filas (registros).",
+    "B) Un conjunto de datos estructurados en filas, que son los campos.",
+    "C) Una colección de datos numéricos.",
+    "D) Una colección de datos organizados en columnas (registros) y filas (campos)."
+  ]
+},
+{
+  numb: 278,
+  question: "Señale la respuesta correcta. Un procesador de texto es:",
+  answer: "A) Una aplicación informática destinada a la creación o modificación de documentos escritos por medio de una computadora.",
+  options: [
+    "A) Una aplicación informática destinada a la creación o modificación de documentos escritos por medio de una computadora.",
+    "B) Una aplicación que permite manipular datos numéricos y alfanuméricos dispuestos en forma de tablas compuestas por celdas que se suelen organizar en una matriz bidimensional de filas y columnas.",
+    "C) Un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 279,
+  question: "Una base de datos está compuesta por objetos que tienen una función determinada. Señale cual de los siguientes objetos forma parte de una base de datos:",
+  answer: "D) Todas son ciertas.",
+  options: [
+    "A) Tablas para almacenar los datos.",
+    "B) Consultas para buscar y recuperar únicamente los datos que necesita.",
+    "C) Formularios para ver, agregar y actualizar los datos de las tablas.",
+    "D) Todas son ciertas."
+  ]
+},
+{
+  numb: 280,
+  question: "En relación a los procesadores de texto, señale la verdadera:",
+  answer: "D) Todas son ciertas.",
+  options: [
+    "A) Brindan una amplia gama de funcionalidades tipográficas, idiomáticas u organizativas, con diversas variantes según el programa de que se disponga.",
+    "B) Como regla general, todos pueden trabajar con distintos tipos y tamaños de letra, formato de párrafo y efectos artísticos, además de brindar la posibilidad de intercalar o superponer imágenes u otros objetos gráficos dentro del texto.",
+    "C) Incorporan correctores de ortografía y gramática, así como diccionarios multilingües y de sinónimos que facilitan en gran medida la labor de redacción.",
+    "D) Todas son ciertas."
+  ]
+},
+{
+  numb: 281,
+  question: "¿Cuál es el orden de prioridad de operación en una hoja de cálculo, introduciendo una fórmula sin paréntesis?",
+  answer: "B) Primero se resuelven potencias; después, cocientes y productos; y finalmente, sumas y restas.",
+  options: [
+    "A) Primero se resuelven sumas y restas; después, cocientes y productos; y finalmente potencias.",
+    "B) Primero se resuelven potencias; después, cocientes y productos; y finalmente, sumas y restas.",
+    "C) Primero se resuelven cocientes y productos; después potencias; y finalmente sumas y restas.",
+    "D) Primero se resuelven sumas y restas; después, potencias; y finalmente cocientes y productos."
+  ]
+},
+{
+  numb: 282,
+  question: "En una hoja de cálculo, ¿a qué categoría de funciones pertenece la función SI?",
+  answer: "D) Lógicas.",
+  options: [
+    "A) Búsqueda y referencia.",
+    "B) Estadística.",
+    "C) Texto.",
+    "D) Lógicas."
+  ]
+},
+{
+  numb: 283,
+  question: "¿Cuál de estas fórmulas en una hoja de cálculo es incorrecta?",
+  answer: "B) =suma(A1,A2,A3,A4,A5,A6,A7).",
+  options: [
+    "A) =suma(A1:A7).",
+    "B) =suma(A1,A2,A3,A4,A5,A6,A7).",
+    "C) =suma(A1:A5;A6;A7).",
+    "D) =suma(A1;A2;A3;A4;A5;A6;A7)."
+  ]
+},
+{
+  numb: 284,
+  question: "La unidad básica de información en la hoja de cálculo, donde se insertan los valores y las fórmulas que realizan los cálculos se denomina:",
+  answer: "B) Celda.",
+  options: [
+    "A) Hoja.",
+    "B) Celda.",
+    "C) Libro.",
+    "D) Coordenada."
+  ]
+},
+{
+  numb: 285,
+  question: "Al utilizar una hoja de cálculo se introduce la información en celdas, que a su vez están organizadas en:",
+  answer: "B) Filas y columnas.",
+  options: [
+    "A) Párrafos y columnas.",
+    "B) Filas y columnas.",
+    "C) Párrafos y filas.",
+    "D) Párrafos y hojas."
+  ]
+},
+{
+  numb: 286,
+  question: "¿Qué combinación de teclas utilizarías en un procesador de texto para deshacer una acción?:",
+  answer: "D) Control + Z.",
+  options: [
+    "A) Control + X.",
+    "B) Control + P.",
+    "C) Control + C.",
+    "D) Control + Z."
+  ]
+},
+{
+  numb: 287,
+  question: "¿Cuál de las siguientes es la denominación para un grupo de ordenadores y/o dispositivos interconectados a fin de compartir información y recursos?",
+  answer: "B) Red informática.",
+  options: [
+    "A) Protocolo de comunicación.",
+    "B) Red informática.",
+    "C) Algoritmo informático.",
+    "D) Lenguaje de programación."
+  ]
+},
+{
+  numb: 288,
+  question: "El dispositivo informático cuya misión es, entre otras, bloquear el acceso a usuarios no autorizados a una red privada que está conectada a Internet, es el:",
+  answer: "A) Firewall.",
+  options: [
+    "A) Firewall.",
+    "B) Antivirus.",
+    "C) IDS.",
+    "D) Servidor."
+  ]
+},
+{
+  numb: 289,
+  question: "Cada ordenador conectado a Internet tiene una dirección para identificarse por una serie de números. ¿Cuál es su nombre?:",
+  answer: "B) IP.",
+  options: [
+    "A) DNS.",
+    "B) IP.",
+    "C) COM.",
+    "D) ID."
+  ]
+},
+{
+  numb: 290,
+  question: "¿Con cuál de los siguientes protocolos pueden varios usuarios acceder de forma simultánea a la misma cuenta de correo electrónico y ver los mensajes?:",
+  answer: "A) IMAP.",
+  options: [
+    "A) IMAP.",
+    "B) POP3.",
+    "C) SMTP.",
+    "D) C3PO."
+  ]
+},
+{
+  numb: 291,
+  question: "Si queremos enviar un correo electrónico a varios destinatarios sin que entre ellos reciban las direcciones de correo de los demás, usamos el campo:",
+  answer: "C) CCO.",
+  options: [
+    "A) Para.",
+    "B) CC.",
+    "C) CCO.",
+    "D) BCO."
+  ]
+},
+{
+  numb: 292,
+  question: "¿Qué es un buscador Web?",
+  answer: "C) Es un servidor informático que permite la búsqueda de contenidos en base a palabras clave.",
+  options: [
+    "A) Es un sitio para buscar dominios.",
+    "B) Es una herramienta para agregar sitios a una intranet.",
+    "C) Es un servidor informático que permite la búsqueda de contenidos en base a palabras clave.",
+    "D) Ninguna es correcta."
+  ]
+},
+{
+  numb: 293,
+  question: "Al conjunto de datos que se añaden a una unidad de datos para protegerlos contra la falsificación, permitiendo al receptor probar la fuente y la integridad de los mismos, se denomina:",
+  answer: "D) Firma digital.",
+  options: [
+    "A) FNMT.",
+    "B) Memoria virtual.",
+    "C) Firewall.",
+    "D) Firma digital."
+  ]
+},
+{
+  numb: 294,
+  question: "¿Qué es una ventana POP UP?",
+  answer: "C) Una ventana emergente que aparece automáticamente al navegar en determinadas páginas.",
+  options: [
+    "A) Una ventana basada en el protocolo de correo POP-3.",
+    "B) Una ventana que tú abres voluntariamente para acceder a su información.",
+    "C) Una ventana emergente que aparece automáticamente al navegar en determinadas páginas.",
+    "D) La ventana normal de trabajo del navegador."
+  ]
+},
+{
+  numb: 295,
+  question: "¿Qué significa en la red de Internet las siglas WWW?",
+  answer: "D) World Wide Web.",
+  options: [
+    "A) World Wild Web.",
+    "B) Work Wide Web.",
+    "C) Word Wide Web.",
+    "D) World Wide Web."
+  ]
+},
+{
+  numb: 296,
+  question: "En el caso de que los interesados optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos, se considerarán válidos a efectos de firma:",
+  answer: "D) Todas las respuestas son correctas.",
+  options: [
+    "A) Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la 'Lista de confianza de prestadores de servicios de certificación'.",
+    "B) Sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la 'Lista de confianza de prestadores de servicios de certificación'.",
+    "C) Cualquier otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital.",
+    "D) Todas las respuestas son correctas."
+  ]
+},
+{
+  numb: 297,
+  question: "Los medios o soportes en que se almacenen documentos electrónicos por la Administración, deberán contar con medidas de seguridad, de acuerdo con lo previsto en el:",
+  answer: "C) Esquema Nacional de Seguridad.",
+  options: [
+    "A) Esquema Nacional de Inteligencia.",
+    "B) Centro Nacional de Inteligencia.",
+    "C) Esquema Nacional de Seguridad.",
+    "D) Centro Nacional de Seguridad."
+  ]
+},
+{
+  numb: 298,
+  question: "La plataforma de teleformación Moodle, para el desarrollo del proceso de enseñanza y aprendizaje contiene herramientas de:",
+  answer: "C) Esquema Nacional de Seguridad.",
+  options: [
+    "A) Comunicación.",
+    "B) Gestión de personas.",
+    "C) Didácticas.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 299,
+  question: "¿Quién puede obtener un Certificado electrónico de Ciudadano o Certificado Digital?",
+  answer: "C) Cualquier ciudadano español o extranjero, mayor de edad o menor emancipado que esté en posesión de su DNI o NIE.",
+  options: [
+    "A) Cualquier ciudadano español que esté en posesión de su DNI.",
+    "B) Cualquier ciudadano español o extranjero, que esté en posesión de su DNI o NIE.",
+    "C) Cualquier ciudadano español o extranjero, mayor de edad o menor emancipado que esté en posesión de su DNI o NIE.",
+    "D) Todas son correctas."
+  ]
+},
+{
+  numb: 300,
+  question: "¿De qué forma puede obtenerse el Certificado Digital?",
+  answer: "D) Todas son correctas.",
+  options: [
+    "A) Con una vídeo identificación.",
+    "B) Con acreditación presencial en una oficina.",
+    "C) Utilizando el DNI electrónico.",
+    "D) Todas son correctas."
+  ]
+},
 ];
