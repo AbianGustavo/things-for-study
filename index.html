@@ -10,10 +10,8 @@
 </head>
 <body>
 
-  <!-- botón de inicio de prueba -->
   <div class="start_btn"><button>Iniciar prueba</button></div>
 
-  <!-- Caja de Informacion-->
     <div class="info_box">
         <div class="info-title"><span>Algunas reglas de este cuestionario</span></div>
         <div class="info-list">
@@ -26,7 +24,6 @@
         <div class="info-list">
             <label for="start_question">Selecciona la pregunta de inicio:</label>
             <select id="start_question">
-                <!-- Options will be populated dynamically -->
             </select>
         </div>
         <div class="buttons">
@@ -35,7 +32,6 @@
         </div>
     </div>
 
-  <!-- Cuadro de prueba-->
   <div class="quiz_box">
       <header>
           <div class="title">Examen de Programación</div>
@@ -46,38 +42,31 @@
       </header>
       <section>
           <div class="que_text">
-              <!-- Aquí he insertado una pregunta de JavaScript -->
           </div>
           <div class="option_list">
-              <!-- Aquí he insertado opciones de JavaScript -->
           </div>
       </section>
 
-      <!-- pie de página de la prueba -->
       <footer>
           <div class="total_que">
-              <!-- Aquí he insertado Número de conteo de preguntas de JavaScript -->
           </div>
+          <button class="prev_btn">Anterior</button>
           <button class="next_btn">Siguiente</button>
+          <button class="finish_btn">Finalizar Test</button>
       </footer>
   </div>
 
-  <!-- Result Box -->
   <div class="result_box">
-      <div class="complete_text">¡Has completado el cuestionario!</div>
-      <div class="score_text">
-          <!-- Aquí he insertado Score Result de JavaScript-->
-      </div>
-      <div class="buttons">
-          <button class="restart">Cuestionario de repetición</button>
-          <button class="quit">Salir</button>
-      </div>
-  </div>
+    <div class="complete_text">¡Has completado el cuestionario!</div>
+    <div class="score_text">
+    </div>
+    <div class="buttons">
+        <button class="quit">Salir</button>
+    </div>
+</div>
 
-  <!-- Dentro de este archivo JavaScript, solo he insertado preguntas y opciones. -->
   <script src="preguntas.js"></script>
 
-  <!-- Dentro de este archivo JavaScript he codificado todos los códigos de prueba -->
   <script src="script.js"></script>
 </body>
 </html>
