@@ -1886,7 +1886,7 @@ let questions = [
   answer: "B) Divulgar y difundir información sobre determinados procesos sanitarios y no sanitarios que a juicio del titular del Departamento competente en materia de sanidad o educación, resulten ser de interés para los usuarios sanitarios en general.",
   options: [
     "A) Recabar de las entidades y organismos públicos y privados del sector sanitario, cualquier tipo de información que considere oportuna para un mejor cumplimiento de sus funciones.",
-    "B) Divulgar y difundir información sobre determinados procesos sanitarios y no sanitarios que a juicio del titular el Departamento competente en materia de sanidad o educación, resulten ser de interés para los usuarios sanitarios en general.",
+    "B) Divulgar y difundir información sobre determinados procesos sanitarios y no sanitarios que a juicio del titular del Departamento competente en materia de sanidad o educación, resulten ser de interés para los usuarios sanitarios en general.",
     "C) Analizar, confeccionar, difundir y comunicar los resultados de las encuestas dirigidas a los usuarios",
     "D) Elaborar la Memoria Anual de la Oficina."
   ]
@@ -3005,7 +3005,7 @@ let questions = [
 {
   numb: 274,
   question: "En un Procesador de texto, pulsando las teclas CTRL + AA (dos veces A) se activa la opción",
-  answer: "D) CTRL+ X",
+  answer: "D) Ninguna de las respuestas es correcta.",
   options: [
     "A) Seleccionar todo.",
     "B) Deshacer.",
