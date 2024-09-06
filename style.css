@@ -1,4 +1,3 @@
-/* importando google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 * {
     margin: 0;
@@ -40,13 +39,12 @@ body {
 }
 
 .start_btn button {
-    font-size: 28px; /* tamaño de fuente aumentado */
-    font-weight: 500;
+    font-size: 28px; 
     color: #007bff;
-    padding: 20px 40px; /* padding aumentado */
+    padding: 20px 40px;
     outline: none;
     border: none;
-    border-radius: 10px; /* borde más redondeado */
+    border-radius: 10px; 
     background: #fff;
     cursor: pointer;
 }
@@ -96,16 +94,17 @@ body {
 }
 
 .info_box .buttons button {
-    margin: 0 5px;
-    height: 70px; /* altura aumentada */
-    width: 180px; /* ancho aumentado */
-    font-size: 18px; /* tamaño de fuente aumentado */
+    margin: 0 10px;
+    height: 70px;
+    width: 200px; 
+    font-size: 18px;
     font-weight: 500;
     cursor: pointer;
     border: none;
     outline: none;
-    border-radius: 10px; /* borde más redondeado */
+    border-radius: 10px;
     border: 1px solid #007bff;
+    padding: 10px 20px;
     transition: all 0.3s ease;
 }
 
@@ -195,9 +194,9 @@ section .option_list {
 section .option_list .option {
     background: aliceblue;
     border: 1px solid #84c5fe;
-    border-radius: 10px; /* borde más redondeado */
-    padding: 12px 20px; /* padding aumentado */
-    font-size: 18px; /* tamaño de fuente aumentado */
+    border-radius: 10px; 
+    padding: 12px 20px; 
+    font-size: 18px; 
     margin-bottom: 15px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -256,7 +255,7 @@ section .option_list .option .icon {
 }
 
 footer {
-    height: 70px; /* altura aumentada */
+    height: 80px; 
     padding: 0 30px;
     display: flex;
     align-items: center;
@@ -264,47 +263,67 @@ footer {
     border-top: 1px solid lightgrey;
 }
 
+
+.prev_btn:hover {
+    background-color: #0056b3; 
+}
+
+footer .total_que {
+    display: flex;
+    align-items: center; 
+    gap: 15px; 
+}
+
 footer .total_que span {
     display: flex;
-    user-select: none;
 }
 
 footer .total_que span p {
     font-weight: 500;
     padding: 0 5px;
+    margin-right: 10px; 
 }
 
-footer .total_que span p:first-child {
-    padding-left: 0px;
+footer .total_que span p:last-child {
+    margin-right: 0; 
 }
 
 footer button {
-    height: 50px; /* altura aumentada */
-    padding: 0 20px; /* padding aumentado */
-    font-size: 20px; /* tamaño de fuente aumentado */
-    font-weight: 400;
+    height: 60px; 
+    padding: 0 20px; 
+    font-size: 18px;
+    font-weight: 500;
     cursor: pointer;
     border: none;
     outline: none;
-    color: #fff;
-    border-radius: 10px; /* borde más redondeado */
-    background: #007bff;
-    border: 1px solid #007bff;
-    line-height: 10px;
-    opacity: 0;
-    pointer-events: none;
-    transform: scale(0.95);
+    border-radius: 10px;
     transition: all 0.3s ease;
 }
 
 footer button:hover {
-    background: #0263ca;
+    background-color: #0056b3;
 }
 
-footer button.show {
-    opacity: 1;
-    pointer-events: auto;
+footer .finish_btn {
+    background: #28a745; 
+    border: 1px solid #28a745;
+}
+
+footer .finish_btn:hover {
+    background-color: #218838; 
+}
+
+footer .show {
+    opacity: 1; 
+    pointer-events: auto; 
     transform: scale(1);
+}
+
+footer .prev_btn, 
+footer .next_btn, 
+footer .finish_btn {
+    margin: 5px;
+    padding: 10px;
 }
 
 .result_box {
@@ -352,15 +371,15 @@ footer button.show {
 }
 
 .result_box .buttons button {
-    margin: 0 10px;
-    height: 70px; /* altura aumentada */
-    padding: 0 30px; /* padding aumentado */
-    font-size: 20px; /* tamaño de fuente aumentado */
+    margin: 0 15px; 
+    height: 70px;
+    padding: 0 30px; 
+    font-size: 20px;
     font-weight: 500;
     cursor: pointer;
     border: none;
     outline: none;
-    border-radius: 10px; /* borde más redondeado */
+    border-radius: 10px;
     border: 1px solid #007bff;
     transition: all 0.3s ease;
 }
@@ -387,113 +406,4 @@ footer button.show {
 .avatar {
     width: 70%;
     margin-left: 65px;
-}
-
-/* Media Queries */
-@media (max-width: 768px) {
-    .start_btn,
-    .info_box,
-    .quiz_box,
-    .result_box {
-        width: 95%;
-    }
-
-    .quiz_box header {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .quiz_box header .timer {
-        margin-top: 10px;
-        width: 100%;
-        justify-content: space-between;
-    }
-
-    section .que_text {
-        font-size: 20px;
-    }
-
-    section .option_list .option {
-        font-size: 15px;
-    }
-
-    footer {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    footer .total_que {
-        margin-bottom: 10px;
-    }
-
-    footer button {
-        width: 100%;
-        text-align: center;
-    }
-}
-
-@media (max-width: 480px) {
-    .start_btn button {
-        font-size: 20px;
-        padding: 10px 20px;
-    }
-
-    .info_box .info-title {
-        font-size: 18px;
-    }
-
-    .info_box .info-list .info {
-        font-size: 15px;
-    }
-
-    .info_box .buttons button {
-        height: 50px;
-        width: 130px;
-        font-size: 14px;
-    }
-
-    .quiz_box header {
-        padding: 10px 20px;
-    }
-
-    section {
-        padding: 20px 20px 15px 20px;
-    }
-
-    section .que_text {
-        font-size: 18px;
-    }
-
-    section .option_list .option {
-        font-size: 14px;
-        padding: 6px 10px;
-    }
-
-    footer {
-        padding: 10px 20px;
-    }
-
-    footer button {
-        height: 35px;
-        padding: 0 10px;
-        font-size: 16px;
-    }
-
-    .result_box {
-        width: 90%;
-    }
-
-    .result_box .complete_text {
-        font-size: 18px;
-    }
-
-    .result_box .score_text span {
-        font-size: 16px;
-    }
-
-    .result_box .buttons button {
-        height: 50px;
-        padding: 0 15px;
-        font-size: 16px;
-    }
 }
